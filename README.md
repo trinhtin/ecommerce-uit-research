@@ -1,4 +1,5 @@
 # Generative AI Learning Resources
+:smiley
 ## 📚 Books
 Dive deep into the foundational theories and practical applications of AI and LLMs with these essential readings:
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
