@@ -1,5 +1,4 @@
 # Generative AI Learning Resources
-:smiley
 ## 📚 Books
 Dive deep into the foundational theories and practical applications of AI and LLMs with these essential readings:
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
@@ -13,6 +12,10 @@ Dive deep into the foundational theories and practical applications of AI and LL
 - "Transformers for Natural Language Processing" by Denis Rothman
   - A vital resource for understanding the Transformers architecture, pivotal in modern LLMs. [Access here](https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition)
 
+## :newspaper: Papers
+[1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)
+
+
 ## 📺 Online Courses
 Enhance your understanding of LLMs with these expertly curated courses:
 -  CS224N: Natural Language Processing with Deep Learning (Stanford University)
@@ -21,6 +24,9 @@ Enhance your understanding of LLMs with these expertly curated courses:
   - Starts with neural network basics and advances to sequence models crucial for LLMs. [Enroll here](https://www.coursera.org/specializations/deep-learning)
 - Natural Language Processing Specialization (Coursera)
   - Focuses on building and deploying NLP models, offering practical experience with LLMs. [Enroll here](https://www.deeplearning.ai/courses/natural-language-processing-specialization/)
+- Generative AI for Beginners (Mirosoft)
+  - Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates. [View course](https://github.com/microsoft/generative-ai-for-beginners/)
+
 
 ## 🧰 Tools and Libraries
 Get hands-on experience with these cutting-edge tools and libraries to apply, fine-tune, and deepen your understanding of LLMs in practice:
