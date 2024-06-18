@@ -52,3 +52,5 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
   - Microsoft AI Blog: Shares developments from Microsoft on their AI technologies, including Azure AI and the latest breakthroughs in language models. [Visit Microsoft AI Blog](https://blogs.microsoft.com/ai/)
 - Amazon Science Blog: Provides insights into Amazon's AI innovations, particularly how they leverage LLMs for enhancing customer experiences. [Visit Amazon Science Blog](https://www.amazon.science/)
 - Top Tier Conferences List: (https://aclanthology.org/). For instances: COLING
+- Conference Ranking (AU): (https://portal.core.edu.au/conf-ranks)
+- Journal Ranking: (https://www.scimagojr.com/)
