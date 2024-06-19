@@ -47,6 +47,7 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
   - [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html): Rank A*
   - [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html): Rank A*
   - [ACL](https://dblp.uni-trier.de/db/conf/acl/index.html): Rank A*
+  - [AAAI](https://dblp.uni-trier.de/db/conf/aaai/aaai2024.html): Rank A* (divide into multiple tracks like Computer Vision, Education,...)
   - [COLING](https://aclanthology.org/volumes/2024.lrec-main/): Rank B
 - Top Tier Conferences List: (https://aclanthology.org/) 
 - Conference Ranking (AU): (https://portal.core.edu.au/conf-ranks)
