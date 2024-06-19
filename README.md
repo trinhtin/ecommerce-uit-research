@@ -65,3 +65,6 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
 - Semantics Scholars: (https://www.semanticscholar.org/)
 - DBLP: (https://dblp.uni-trier.de/)
 - ArXiv: (https://arxiv.org/)
+
+## My current pipeline to search paper
+DBLP -> Search by Keyword -> Download paper from Google / Sci-hub
