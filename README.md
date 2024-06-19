@@ -50,8 +50,8 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
   - [AAAI](https://dblp.uni-trier.de/db/conf/aaai/aaai2024.html): Rank A* (divide into multiple tracks like Computer Vision, Education,...)
   - [COLING](https://aclanthology.org/volumes/2024.lrec-main/): Rank B
 - Top Tier Conferences List: (https://aclanthology.org/) 
-- Conference Ranking (AU): (https://portal.core.edu.au/conf-ranks)
-- Journal Ranking: (https://www.scimagojr.com/)
+- Conference Ranking (CR, AU): (https://portal.core.edu.au/conf-ranks)
+- Journal Ranking (JR): (https://www.scimagojr.com/)
 - GitHub and Stack Overflow: Join the community to discuss challenges, share solutions, and advance your knowledge in LLMs. These platforms are ideal for troubleshooting, learning new techniques, and networking with peers.
 - Technology Blogs of Leading Corporations</strong>
   - Google AI Blog: Offers insights into Google's latest developments in AI and machine learning, including updates on their work with LLMs. [Visit Google AI Blog](https://ai.googleblog.com/)
@@ -67,4 +67,4 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
 - ArXiv: (https://arxiv.org/)
 
 ## My current pipeline to search paper
-DBLP -> Search by Keyword -> Download paper from Google / Sci-hub
+DBLP -> Search by Keyword -> Download paper from Google / Sci-hub -> Check Conference / Journal rank from CR/JR
