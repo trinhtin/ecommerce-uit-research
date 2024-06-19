@@ -58,3 +58,8 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
   - Facebook AI Blog (Meta AI): Features articles on Facebook's advancements in AI research and technology, with a focus on their efforts in NLP and LLMs. [Visit Meta AI Blog](https://ai.facebook.com/blog/)
   - Microsoft AI Blog: Shares developments from Microsoft on their AI technologies, including Azure AI and the latest breakthroughs in language models. [Visit Microsoft AI Blog](https://blogs.microsoft.com/ai/)
 - Amazon Science Blog: Provides insights into Amazon's AI innovations, particularly how they leverage LLMs for enhancing customer experiences. [Visit Amazon Science Blog](https://www.amazon.science/)
+
+## Science Database
+- Google Scholars: (https://scholar.google.com/)
+- Semantics Scholars: (https://www.semanticscholar.org/)
+- DBLP: (https://dblp.uni-trier.de/)
