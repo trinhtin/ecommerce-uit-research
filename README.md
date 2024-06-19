@@ -43,7 +43,14 @@ Get hands-on experience with these cutting-edge tools and libraries to apply, fi
 
 ## 📅 Conferences and Community
 Stay connected and up-to-date with the latest advancements in AI and LLMs through these platforms:
-- Top-tier AI Conferences: Engage with the latest research and discussions at NeurIPS, ICML, ACL, and other premier AI conferences where groundbreaking ideas are shared and debated.
+- Top-tier AI Conferences: Engage with the latest research and discussions at [NeurIPS], ICML, ACL, and other premier AI conferences where groundbreaking ideas are shared and debated.
+  - [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html): Rank A*
+  - [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html): Rank A*
+  - [ACL](https://dblp.uni-trier.de/db/conf/acl/index.html): Rank A*
+  - [COLING](https://aclanthology.org/volumes/2024.lrec-main/): Rank B
+- Top Tier Conferences List: (https://aclanthology.org/) 
+- Conference Ranking (AU): (https://portal.core.edu.au/conf-ranks)
+- Journal Ranking: (https://www.scimagojr.com/)
 - GitHub and Stack Overflow: Join the community to discuss challenges, share solutions, and advance your knowledge in LLMs. These platforms are ideal for troubleshooting, learning new techniques, and networking with peers.
 - Technology Blogs of Leading Corporations</strong>
   - Google AI Blog: Offers insights into Google's latest developments in AI and machine learning, including updates on their work with LLMs. [Visit Google AI Blog](https://ai.googleblog.com/)
@@ -51,6 +58,3 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
   - Facebook AI Blog (Meta AI): Features articles on Facebook's advancements in AI research and technology, with a focus on their efforts in NLP and LLMs. [Visit Meta AI Blog](https://ai.facebook.com/blog/)
   - Microsoft AI Blog: Shares developments from Microsoft on their AI technologies, including Azure AI and the latest breakthroughs in language models. [Visit Microsoft AI Blog](https://blogs.microsoft.com/ai/)
 - Amazon Science Blog: Provides insights into Amazon's AI innovations, particularly how they leverage LLMs for enhancing customer experiences. [Visit Amazon Science Blog](https://www.amazon.science/)
-- Top Tier Conferences List: (https://aclanthology.org/). For instances: [COLING2024](https://aclanthology.org/volumes/2024.lrec-main/)
-- Conference Ranking (AU): (https://portal.core.edu.au/conf-ranks)
-- Journal Ranking: (https://www.scimagojr.com/)
