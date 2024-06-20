@@ -68,3 +68,4 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
 
 ## My current pipeline to search paper
 DBLP -> Search by Keyword -> Download paper from Google / Sci-hub -> Check Conference / Journal rank from CR/JR
+List conferences in VN: (https://docs.google.com/spreadsheets/u/1/d/14m0UEXAVZM507Vcdj5qFlEiL19PoFJ2N/edit#gid=349830627)
