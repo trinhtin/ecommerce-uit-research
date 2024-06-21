@@ -66,8 +66,13 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
 - Google Scholars: (https://scholar.google.com/)
 - Semantics Scholars: (https://www.semanticscholar.org/)
 - DBLP: (https://dblp.uni-trier.de/)
-- ArXiv: (https://arxiv.org/)
+- ArXiv: (https://arxiv.org/) -> for booking only, need to verify more
 
 ## My current pipeline to search paper
 DBLP -> Search by Keyword -> Download paper from Google / Sci-hub -> Check Conference / Journal rank from CR/JR
 List conferences in VN: (https://docs.google.com/spreadsheets/u/1/d/14m0UEXAVZM507Vcdj5qFlEiL19PoFJ2N/edit#gid=349830627)
+Hint from Prof:
+1. https://aclanthology.org/
+1. Select topic from ACL2024:https://2024.aclweb.org/calls/main_conference_papers/
+
+
