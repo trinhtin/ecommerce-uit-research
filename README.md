@@ -27,6 +27,16 @@ Enhance your understanding of LLMs with these expertly curated courses:
 - Generative AI for Beginners (Mirosoft)
   - Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates. [View course](https://github.com/microsoft/generative-ai-for-beginners/)
 
+## 📺 Youtube 
+Some Youtube channels for your references:
+-  CS224N: Natural Language Processing with Deep Learning (Stanford University)
+  - Introduces deep learning techniques in NLP, foundational for comprehending LLMs. [View course](https://web.stanford.edu/class/cs224n/)
+- Deep Learning Specialization by Andrew Ng (Coursera)
+  - Starts with neural network basics and advances to sequence models crucial for LLMs. [Enroll here](https://www.coursera.org/specializations/deep-learning)
+- Natural Language Processing Specialization (Coursera)
+  - Focuses on building and deploying NLP models, offering practical experience with LLMs. [Enroll here](https://www.deeplearning.ai/courses/natural-language-processing-specialization/)
+- Generative AI for Beginners (Mirosoft)
+  - Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates. [View course](https://github.com/microsoft/generative-ai-for-beginners/)
 
 ## 🧰 Tools and Libraries
 Get hands-on experience with these cutting-edge tools and libraries to apply, fine-tune, and deepen your understanding of LLMs in practice:
