@@ -28,15 +28,14 @@ Enhance your understanding of LLMs with these expertly curated courses:
   - Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates. [View course](https://github.com/microsoft/generative-ai-for-beginners/)
 
 ## 📺 Youtube 
-Some Youtube channels for your references:
--  CS224N: Natural Language Processing with Deep Learning (Stanford University)
-  - Introduces deep learning techniques in NLP, foundational for comprehending LLMs. [View course](https://web.stanford.edu/class/cs224n/)
-- Deep Learning Specialization by Andrew Ng (Coursera)
-  - Starts with neural network basics and advances to sequence models crucial for LLMs. [Enroll here](https://www.coursera.org/specializations/deep-learning)
-- Natural Language Processing Specialization (Coursera)
-  - Focuses on building and deploying NLP models, offering practical experience with LLMs. [Enroll here](https://www.deeplearning.ai/courses/natural-language-processing-specialization/)
-- Generative AI for Beginners (Mirosoft)
-  - Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates. [View course](https://github.com/microsoft/generative-ai-for-beginners/)
+- Mì AI: (https://www.youtube.com/c/M%C3%ACAIblog)
+- Việt Nguyễn AI: (https://www.youtube.com/@vietnh1009)
+- The AI Advantage: (https://www.youtube.com/@aiadvantage)
+- Two minutes papers: (https://www.youtube.com/@TwoMinutePapers)
+- AI Blog: (https://www.youtube.com/@venelin_valkov)
+- AI Blog: (https://www.youtube.com/@umarjamilai)
+- AI Blog: (https://www.youtube.com/@mreflow)
+- AI Explained: (https://www.youtube.com/@aiexplained-official)
 
 ## 🧰 Tools and Libraries
 Get hands-on experience with these cutting-edge tools and libraries to apply, fine-tune, and deepen your understanding of LLMs in practice:
@@ -82,7 +81,8 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
 DBLP -> Search by Keyword -> Download paper from Google / Sci-hub -> Check Conference / Journal rank from CR/JR
 List conferences in VN: (https://docs.google.com/spreadsheets/u/1/d/14m0UEXAVZM507Vcdj5qFlEiL19PoFJ2N/edit#gid=349830627)
 Hint from Prof:
-1. https://aclanthology.org/
-1. Select topic from ACL2024:https://2024.aclweb.org/calls/main_conference_papers/
+1. https:(//aclanthology.org/)
+1. Select topic from ACL2024: (https://2024.aclweb.org/calls/main_conference_papers/)
+2. Check đạo văn: (https://rces.info/sinh-vien-kinh-te-nckh/loi-dao-van-trong-nghien-cuu-khoa-hoc-va-cach-phong-tranh/)
 
 
