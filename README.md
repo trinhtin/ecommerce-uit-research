@@ -36,6 +36,7 @@ Enhance your understanding of LLMs with these expertly curated courses:
 - AI Blog: (https://www.youtube.com/@umarjamilai)
 - AI Blog: (https://www.youtube.com/@mreflow)
 - AI Explained: (https://www.youtube.com/@aiexplained-official)
+- DeepLearningAI: (https://www.youtube.com/@Deeplearningai)
 
 ## 🧰 Tools and Libraries
 Get hands-on experience with these cutting-edge tools and libraries to apply, fine-tune, and deepen your understanding of LLMs in practice:
