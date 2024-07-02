@@ -88,6 +88,7 @@ Hint from Prof:
 
 ## Process to select "Research topics" from Top tier conferences
 Selecting a research topic from a top-tier NLP conference involves several steps. Here’s a structured approach to guide you through the process:
+
 **1. Identify Top-Tier NLP Conferences**
   -  Top-tier NLP conferences include:
   -  ACL (Association for Computational Linguistics)
@@ -97,25 +98,31 @@ Selecting a research topic from a top-tier NLP conference involves several steps
   -  EACL (European Chapter of the Association for Computational Linguistics)
   -  AAAI (Association for the Advancement of Artificial Intelligence, for its NLP tracks)
   -  NeurIPS (Conference on Neural Information Processing Systems, for its NLP tracks)
+    
 **2. Review Conference Proceedings**
   -  Access Conference Papers: Visit the conference websites or digital libraries like ACL Anthology, arXiv, or specific conference archives.
   -  Download Proceedings: Get the proceedings of the most recent conference editions.
   -  Read Abstracts and Introductions: Skim through the abstracts and introductions to get a high-level understanding of the topics covered.
+  - 
 **3. Identify Research Trends**
   -  Frequent Topics: Look for recurring themes and topics in the papers.
   -  Hot Topics: Identify hot topics by seeing which papers have the most citations or mentions on platforms like Google Scholar, Semantic Scholar, and social media.
   -  Emerging Areas: Pay attention to new and emerging areas that are gaining traction.
+    
 **4. Narrow Down Your Interests**
   -  Personal Interest: Select topics that personally interest you and align with your career goals.
   -  Relevance and Impact: Consider the practical relevance and potential impact of the research topic in the NLP field and beyond.
   -  Feasibility: Evaluate whether you have the resources (data, tools, expertise) to work on the topic.
+    
 **5. Conduct a Literature Review**
   -  Deep Dive into Selected Topics: Read key papers thoroughly to understand the methodologies, experiments, results, and conclusions.
   -  Identify Gaps: Look for gaps in the existing research that you could potentially fill with your work.
   -  Review Related Work: Explore the related work sections of papers to find more relevant research and understand the context.
+    
 **6. Consult with Advisors and Peers**
   -  Seek Feedback: Discuss your selected topics with your academic advisors, mentors, and peers to get feedback and suggestions.
   -  Collaborate: Consider collaborating with others who have expertise or interest in the topic.
+    
 **7. Finalize Your Research Topic**
   -  Narrow Focus: Narrow down your topic to a specific research question or problem.
   -  Formulate Hypothesis: Formulate a clear research hypothesis or objective.
