@@ -8,6 +8,7 @@ Dàn ý để viết paper:
    - Độ đo ROUGE: nên dùng L hoặc N
    - Cài đặt thực nghiệm: so sánh mô hình của nhóm và 1 LLM khác / 1 công trình khác (mới nhất) có thể làm được việc này
    - Độ đo ROUGE cho kết quả tốt hơn thì công bố
+   - Để đo được ROUGE: thì các em cần 1 dataset chuẩn để làm cơ sở so sánh (ví dụ: vietnews tuy nhiên đây là trang tin tức, nên khi so sánh với bối cảnh của chúng ta là bài giảng thì có hơi chưa trùng => tạm chấp nhận)
 
 
 
