@@ -11,7 +11,7 @@ graph TD
     H --> I[End]
 ```
 **1. Identify Top-Tier NLP Conferences**
-  -  Top-tier NLP conferences include:
+Top-tier NLP conferences include:
   -  ACL (Association for Computational Linguistics)
   -  NAACL (North American Chapter of the Association for Computational Linguistics)
   -  EMNLP (Conference on Empirical Methods in Natural Language Processing)
@@ -24,7 +24,7 @@ graph TD
   -  Access Conference Papers: Visit the conference websites or digital libraries like ACL Anthology, arXiv, or specific conference archives.
   -  Download Proceedings: Get the proceedings of the most recent conference editions.
   -  Read Abstracts and Introductions: Skim through the abstracts and introductions to get a high-level understanding of the topics covered.
-  - 
+    
 **3. Identify Research Trends**
   -  Frequent Topics: Look for recurring themes and topics in the papers.
   -  Hot Topics: Identify hot topics by seeing which papers have the most citations or mentions on platforms like Google Scholar, Semantic Scholar, and social media.
@@ -33,8 +33,7 @@ graph TD
 **4. Narrow Down Your Interests**
   -  Personal Interest: Select topics that personally interest you and align with your career goals.
   -  Relevance and Impact: Consider the practical relevance and potential impact of the research topic in the NLP field and beyond.
-  -  Feasibility: Evaluate whether you have the resources (data, tools, expertise) to work on the topic.
-    
+  -  Feasibility: Evaluate whether you have the resources (data, tools, expertise) to work on the topic.    
 **5. Conduct a Literature Review**
   -  Deep Dive into Selected Topics: Read key papers thoroughly to understand the methodologies, experiments, results, and conclusions.
   -  Identify Gaps: Look for gaps in the existing research that you could potentially fill with your work.
