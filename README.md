@@ -1,6 +1,4 @@
-# Ecommerce UIT Research Learning Resources
-
-## Process to select a "Research topic"
+## 📚 Process to select a "Research topic"
 ```mermaid
 graph TD
     A[Start] --> B[1. Identify Top-Tier NLP Conferences]
