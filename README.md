@@ -1,4 +1,4 @@
-# Generative AI Learning Resources
+# Ecommerce UIT Research Learning Resources
 ## 📚 Books
 Dive deep into the foundational theories and practical applications of AI and LLMs with these essential readings:
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
