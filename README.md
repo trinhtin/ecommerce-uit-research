@@ -33,7 +33,8 @@ Top-tier NLP conferences include:
 **4. Narrow Down Your Interests**
   -  Personal Interest: Select topics that personally interest you and align with your career goals.
   -  Relevance and Impact: Consider the practical relevance and potential impact of the research topic in the NLP field and beyond.
-  -  Feasibility: Evaluate whether you have the resources (data, tools, expertise) to work on the topic.    
+  -  Feasibility: Evaluate whether you have the resources (data, tools, expertise) to work on the topic.
+ 
 **5. Conduct a Literature Review**
   -  Deep Dive into Selected Topics: Read key papers thoroughly to understand the methodologies, experiments, results, and conclusions.
   -  Identify Gaps: Look for gaps in the existing research that you could potentially fill with your work.
