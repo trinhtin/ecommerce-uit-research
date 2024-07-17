@@ -60,7 +60,7 @@ Top-tier NLP conferences include:
 -  Finalize Topic: Decide on "Domain Adaptation Techniques for Low-Resource Multilingual NLP."
 By following these steps, you can systematically select a research topic that is relevant, interesting, and feasible for your work in NLP.
 
-## 📅 Conferences and Community
+## 📅 Conferences / Journals
 Stay connected and up-to-date with the latest advancements in AI and LLMs through these platforms:
 - Top-tier AI Conferences: Engage with the latest research and discussions at [NeurIPS], ICML, ACL, and other premier AI conferences where groundbreaking ideas are shared and debated.
   - [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html): Rank A*
@@ -71,23 +71,16 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
 - Top Tier NLP Conferences List: (https://aclanthology.org/)
 - Top Tier Conferences in AI Education:
   - [AIED](https://dblp.uni-trier.de/db/conf/aied/aied2023.html): Rank A
-- GitHub and Stack Overflow: Join the community to discuss challenges, share solutions, and advance your knowledge in LLMs. These platforms are ideal for troubleshooting, learning new techniques, and networking with peers.
-- Technology Blogs of Leading Corporations</strong>
-  - Google AI Blog: Offers insights into Google's latest developments in AI and machine learning, including updates on their work with LLMs. [Visit Google AI Blog](https://ai.googleblog.com/)
-  - OpenAI Blog: Provides updates and deep dives into OpenAI's research and applications of LLMs like GPT series. [Visit OpenAI Blog](https://openai.com/blog/)
-  - Facebook AI Blog (Meta AI): Features articles on Facebook's advancements in AI research and technology, with a focus on their efforts in NLP and LLMs. [Visit Meta AI Blog](https://ai.facebook.com/blog/)
-  - Microsoft AI Blog: Shares developments from Microsoft on their AI technologies, including Azure AI and the latest breakthroughs in language models. [Visit Microsoft AI Blog](https://blogs.microsoft.com/ai/)
-- Amazon Science Blog: Provides insights into Amazon's AI innovations, particularly how they leverage LLMs for enhancing customer experiences. [Visit Amazon Science Blog](https://www.amazon.science/)
-
-## Science Database
-- Google Scholars: (https://scholar.google.com/)
-- Semantics Scholars: (https://www.semanticscholar.org/)
-- DBLP: (https://dblp.uni-trier.de/)
-- ArXiv: (https://arxiv.org/) -> for booking only, need to verify more
 
 ## Conferences / Journals Ranking
 - Conference Ranking (CR, AU): (https://portal.core.edu.au/conf-ranks)
 - Journal Ranking (JR): (https://www.scimagojr.com/)
+
+## Conferences / Journals Database / Search engine
+- Google Scholars: (https://scholar.google.com/)
+- Semantics Scholars: (https://www.semanticscholar.org/)
+- DBLP: (https://dblp.uni-trier.de/)
+- ArXiv: (https://arxiv.org/) -> for booking only, need to verify more
   
 ## :newspaper: SOTA Papers
 [1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)
@@ -115,6 +108,15 @@ Enhance your understanding of LLMs with these expertly curated courses:
   - Focuses on building and deploying NLP models, offering practical experience with LLMs. [Enroll here](https://www.deeplearning.ai/courses/natural-language-processing-specialization/)
 - Generative AI for Beginners (Mirosoft)
   - Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates. [View course](https://github.com/microsoft/generative-ai-for-beginners/)
+
+## 📅 Community
+- GitHub and Stack Overflow: Join the community to discuss challenges, share solutions, and advance your knowledge in LLMs. These platforms are ideal for troubleshooting, learning new techniques, and networking with peers.
+- Technology Blogs of Leading Corporations</strong>
+  - Google AI Blog: Offers insights into Google's latest developments in AI and machine learning, including updates on their work with LLMs. [Visit Google AI Blog](https://ai.googleblog.com/)
+  - OpenAI Blog: Provides updates and deep dives into OpenAI's research and applications of LLMs like GPT series. [Visit OpenAI Blog](https://openai.com/blog/)
+  - Facebook AI Blog (Meta AI): Features articles on Facebook's advancements in AI research and technology, with a focus on their efforts in NLP and LLMs. [Visit Meta AI Blog](https://ai.facebook.com/blog/)
+  - Microsoft AI Blog: Shares developments from Microsoft on their AI technologies, including Azure AI and the latest breakthroughs in language models. [Visit Microsoft AI Blog](https://blogs.microsoft.com/ai/)
+- Amazon Science Blog: Provides insights into Amazon's AI innovations, particularly how they leverage LLMs for enhancing customer experiences. [Visit Amazon Science Blog](https://www.amazon.science/)
 
 ## 📺 Youtube 
 - Mì AI: (https://www.youtube.com/c/M%C3%ACAIblog)
