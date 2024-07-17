@@ -84,6 +84,7 @@ Stay connected and up-to-date with the latest advancements in AI and LLMs throug
   
 ## :newspaper: SOTA Papers
 [1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)
+
 [2] A. Vaswani et al., “Attention is All you Need,” in Advances in Neural Information Processing Systems, Curran Associates, Inc., 2017. Accessed: Jul. 17, 2024. [Online]. Available: (https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 
 ## 📚 Books
