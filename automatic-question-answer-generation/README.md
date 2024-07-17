@@ -1,3 +1,17 @@
+Dàn ý để viết paper:
+- tiêu đề 
+- cơ sở lý thuyết
+   - aqg
+   - llm
+- đề xuất mô hình
+- cách đánh giá:
+   - Độ đo ROUGE: nên dùng L hoặc N
+   - Cài đặt thực nghiệm: so sánh mô hình của nhóm và 1 LLM khác / 1 công trình khác (mới nhất) có thể làm được việc này
+   - Độ đo ROUGE cho kết quả tốt hơn thì công bố
+
+
+
+
 Đánh giá bài toán sinh câu hỏi trắc nghiệm tự động (Automatic Question Generation - AQG) đòi hỏi sử dụng các độ đo khác nhau để đảm bảo rằng các câu hỏi được sinh ra có chất lượng và phù hợp với mục tiêu giáo dục. Một số độ đo phổ biến được sử dụng bao gồm:
 
 ### 1. **Độ chính xác (Accuracy)**
