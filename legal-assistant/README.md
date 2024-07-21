@@ -19,9 +19,9 @@ Dive deep into the foundational theories and practical applications of AI and LL
 - Building Data-Driven Applications with LlamaIndex by Andrei Gheorghiu
 ## :newspaper: Papers
 ### RAG
-[1] Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model
-[2] Llama 2: Open Foundation and Fine-Tuned Chat Models
-[3] Understand Legal Documents with Contextualized Large Language Models
+[1] Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model.  
+[2] Llama 2: Open Foundation and Fine-Tuned Chat Models.  
+[3] Understand Legal Documents with Contextualized Large Language Models.  
 ### Knowledge Graph
 ### Models
 ### Survey
