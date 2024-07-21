@@ -19,6 +19,11 @@ Dive deep into the foundational theories and practical applications of AI and LL
 - Building Data-Driven Applications with LlamaIndex by Andrei Gheorghiu
 ## :newspaper: Papers
 ### RAG
+[1] Corrective Retrieval Augmented Generation  
+[2] DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering  
+[3] Query Rewriting for Retrieval-Augmented Large Language Models
+[4] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+[5] Supportiveness-based Knowledge Rewriting for Retrieval-augmented Language Modeling
 ### Knowledge Graph
 [1] Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs  
 [2] Concept and Context in Legal Information Retrieval  
