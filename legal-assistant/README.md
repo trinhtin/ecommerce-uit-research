@@ -55,6 +55,11 @@ Enhance your understanding of LLMs with these expertly curated courses:
 - Generative AI for Beginners (Mirosoft)
   - Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates. [View course](https://github.com/microsoft/generative-ai-for-beginners/)
 
+## Open source/Github link
+- Project NaLLM [Acess here](https://github.com/neo4j/NaLLM)
+  - Welcome to the NaLLM project repository, where we are exploring and demonstrating the synergies between Neo4j and Large Language Models (LLMs). As a part of our ongoing project, we are focusing on three primary use cases - a Natural Language Interface to a Knowledge Graph, Creating a Knowledge Graph from Unstructured Data and Generate a Report using both static data and data from LLM.
+- Transformers-Tutorials. [Access here](https://github.com/NielsRogge/Transformers-Tutorials)  
+
 ## 📺 Youtube 
 - Mì AI: (https://www.youtube.com/c/M%C3%ACAIblog)
 - Việt Nguyễn AI: (https://www.youtube.com/@vietnh1009)
