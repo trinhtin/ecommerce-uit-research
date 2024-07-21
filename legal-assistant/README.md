@@ -12,7 +12,11 @@ Dive deep into the foundational theories and practical applications of AI and LL
   - Explores the capabilities of LLMs in learning from limited data, marking a significant advancement in the field. [Access here](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 - "Transformers for Natural Language Processing" by Denis Rothman
   - A vital resource for understanding the Transformers architecture, pivotal in modern LLMs. [Access here](https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition)
-
+### 📚 Knowledge Graph
+- Building Knowledge Graphs by Jesus Barrasa, Jim Webber
+- Knowledge Graphs Fundamentals, Techniques, and Applications by Mayank Kejriwal, Craig A. Knoblock, and Pedro Szekely
+### 📚 RAG
+- Building Data-Driven Applications with LlamaIndex by Andrei Gheorghiu
 ## :newspaper: Papers
 [1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)  
 [2] Retrieval-Augmented Generation for Large Language Models: A Survey. [Access here](https://arxiv.org/pdf/2312.10997)  
