@@ -78,6 +78,7 @@ By following these steps, you can systematically select a research topic that is
 - BPM:
   - [BPM](https://dblp.uni-trier.de/db/conf/bpm/index.html): Rank A
 ## Conferences / Journals Ranking
+- Scopus (Conference/Journal): (https://www.scopus.com/sources.uri). Need to use [VNULIB](https://www.vnulib.edu.vn) account
 - Conference Ranking (CR, AU): (https://portal.core.edu.au/conf-ranks)
 - Journal Ranking (JR): (https://www.scimagojr.com/)
 
