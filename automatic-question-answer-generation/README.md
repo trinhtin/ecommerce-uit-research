@@ -71,3 +71,113 @@ Các chỉ số của ROUGE thường được tính toán dựa trên ba thành
 - **F1-score**: Trung bình điều hòa của Precision và Recall, cung cấp một thước đo cân bằng giữa hai yếu tố này.
 
 ROUGE được sử dụng rộng rãi trong nghiên cứu và ứng dụng về xử lý ngôn ngữ tự nhiên (NLP), đặc biệt là trong các hệ thống tóm tắt văn bản tự động, để đánh giá chất lượng và hiệu quả của các thuật toán.
+
+---------------------------
+Để cài đặt và sử dụng độ đo ROUGE (Recall-Oriented Understudy for Gisting Evaluation) trên một tập dữ liệu đã cho, bạn có thể làm theo các bước sau. Dưới đây là hướng dẫn chi tiết bằng Python sử dụng thư viện `rouge-score`.
+
+### Bước 1: Cài đặt Thư viện
+Trước tiên, bạn cần cài đặt thư viện `rouge-score` nếu chưa cài đặt.
+
+```bash
+pip install rouge-score
+```
+
+### Bước 2: Chuẩn bị Dữ liệu
+Giả sử bạn có một tập dữ liệu gồm các câu tóm tắt (summary) và các câu gốc (reference). Bạn cần chuẩn bị dữ liệu dưới dạng các danh sách.
+
+```python
+references = [
+    "This is the reference summary for document one.",
+    "This is the reference summary for document two."
+    # Thêm các câu gốc khác
+]
+
+summaries = [
+    "This is the generated summary for document one.",
+    "This is the generated summary for document two."
+    # Thêm các câu tóm tắt khác
+]
+```
+
+### Bước 3: Tính Toán Độ Đo ROUGE
+Bạn có thể sử dụng thư viện `rouge-score` để tính toán các độ đo ROUGE (ROUGE-1, ROUGE-2, ROUGE-L).
+
+```python
+from rouge_score import rouge_scorer
+
+# Tạo đối tượng tính toán ROUGE
+scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
+
+# Hàm tính toán ROUGE cho các cặp reference và summary
+def compute_rouge(references, summaries):
+    scores = {'rouge1': [], 'rouge2': [], 'rougeL': []}
+    for ref, summary in zip(references, summaries):
+        score = scorer.score(ref, summary)
+        for key in scores:
+            scores[key].append(score[key].fmeasure)
+    return scores
+
+# Tính toán ROUGE
+rouge_scores = compute_rouge(references, summaries)
+
+# Tính trung bình cho từng độ đo ROUGE
+average_rouge_scores = {key: sum(value) / len(value) for key, value in rouge_scores.items()}
+print(average_rouge_scores)
+```
+
+### Kết Quả
+Kết quả sẽ là một từ điển chứa các giá trị trung bình của các độ đo ROUGE-1, ROUGE-2 và ROUGE-L cho toàn bộ tập dữ liệu của bạn.
+
+```python
+print("ROUGE-1:", average_rouge_scores['rouge1'])
+print("ROUGE-2:", average_rouge_scores['rouge2'])
+print("ROUGE-L:", average_rouge_scores['rougeL'])
+```
+
+### Ghi chú
+- `use_stemmer=True`: sử dụng bộ tiền xử lý stemming để so khớp các từ gốc.
+- Bạn có thể tùy chỉnh cách tính toán hoặc thêm các độ đo ROUGE khác nếu cần.
+
+### Ví dụ đầy đủ
+
+```python
+from rouge_score import rouge_scorer
+
+# Danh sách các câu gốc và câu tóm tắt
+references = [
+    "This is the reference summary for document one.",
+    "This is the reference summary for document two."
+    # Thêm các câu gốc khác
+]
+
+summaries = [
+    "This is the generated summary for document one.",
+    "This is the generated summary for document two."
+    # Thêm các câu tóm tắt khác
+]
+
+# Tạo đối tượng tính toán ROUGE
+scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
+
+# Hàm tính toán ROUGE cho các cặp reference và summary
+def compute_rouge(references, summaries):
+    scores = {'rouge1': [], 'rouge2': [], 'rougeL': []}
+    for ref, summary in zip(references, summaries):
+        score = scorer.score(ref, summary)
+        for key in scores:
+            scores[key].append(score[key].fmeasure)
+    return scores
+
+# Tính toán ROUGE
+rouge_scores = compute_rouge(references, summaries)
+
+# Tính trung bình cho từng độ đo ROUGE
+average_rouge_scores = {key: sum(value) / len(value) for key, value in rouge_scores.items()}
+
+# In kết quả
+print("ROUGE-1:", average_rouge_scores['rouge1'])
+print("ROUGE-2:", average_rouge_scores['rouge2'])
+print("ROUGE-L:", average_rouge_scores['rougeL'])
+```
+
+Hy vọng hướng dẫn này sẽ giúp bạn cài đặt và sử dụng độ đo ROUGE cho tập dữ liệu của mình. Nếu bạn có thêm câu hỏi hoặc cần hỗ trợ thêm, hãy cho mình biết!
