@@ -61,20 +61,21 @@ Top-tier NLP conferences include:
 By following these steps, you can systematically select a research topic that is relevant, interesting, and feasible for your work in NLP.
 
 ## 📅 Conferences / Journals
-- Top-tier AI Conferences:
+- NLP:
   - [NeurIPS](https://dblp.uni-trier.de/db/conf/nips/neurips2023.html): Rank A*
   - [ICML](https://dblp.uni-trier.de/db/conf/icml/index.html): Rank A*
   - [ACL](https://dblp.uni-trier.de/db/conf/acl/index.html): Rank A*
   - [AAAI](https://dblp.uni-trier.de/db/conf/aaai/aaai2024.html): Rank A* (divide into multiple tracks like Computer Vision, Education,...)
   - [COLING](https://aclanthology.org/volumes/2024.lrec-main/): Rank B
 - Top Tier NLP Conferences List: (https://aclanthology.org/)
-- Top Tier Conferences in AI Education:
+- AI in Education:
   - [AIED](https://dblp.uni-trier.de/db/conf/aied/aied2023.html): Rank A
-- Top Tier Conferences in WWW, AI, E-commerce:
+- WWW, AI, E-commerce:
   - [WWW](https://dblp.uni-trier.de/db/conf/www/www2024.html): Rank A*
 - Knowledge Graph, Information Retrieval:
   - [SIGIR](https://dblp.uni-trier.de/db/conf/sigir/sigir2024.html): Rank A*
-
+- BPM:
+  - [BPM](https://dblp.uni-trier.de/db/conf/bpm/index.html): Rank A
 ## Conferences / Journals Ranking
 - Conference Ranking (CR, AU): (https://portal.core.edu.au/conf-ranks)
 - Journal Ranking (JR): (https://www.scimagojr.com/)
