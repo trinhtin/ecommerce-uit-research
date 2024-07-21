@@ -93,6 +93,9 @@ By following these steps, you can systematically select a research topic that is
 
 [2] A. Vaswani et al., “Attention is All you Need,” in Advances in Neural Information Processing Systems, Curran Associates, Inc., 2017. Accessed: Jul. 17, 2024. [Online]. Available: (https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
 
+[3] J. Yang et al., “Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond,” ACM Trans. Knowl. Discov. Data, vol. 18, no. 6, p. 160:1-160:32, Apr. 2024, doi: 10.1145/3649506. [Access here](https://dl.acm.org/doi/full/10.1145/3649506)
+
+
 ## 📚 Books
 Dive deep into the foundational theories and practical applications of AI and LLMs with these essential readings:
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
