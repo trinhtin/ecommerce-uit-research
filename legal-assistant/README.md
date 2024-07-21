@@ -18,6 +18,10 @@ Dive deep into the foundational theories and practical applications of AI and LL
 ### 📚 RAG
 - Building Data-Driven Applications with LlamaIndex by Andrei Gheorghiu
 ## :newspaper: Papers
+### RAG
+### Knowledge Graph
+### Models
+### Survey
 [1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)  
 [2] Retrieval-Augmented Generation for Large Language Models: A Survey. [Access here](https://arxiv.org/pdf/2312.10997)  
 [3] Exploring the state of the art in legal QA systems. [Access here](https://arxiv.org/abs/2304.06623)  
