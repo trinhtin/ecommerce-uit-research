@@ -20,6 +20,14 @@ Dive deep into the foundational theories and practical applications of AI and LL
 ## :newspaper: Papers
 ### RAG
 ### Knowledge Graph
+[1] Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs  
+[2] Concept and Context in Legal Information Retrieval  
+[3] graph2vec: Learning Distributed Representations of Graphs  
+[4] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities  
+[5] Architecture of Knowledge Graph Construction Techniques  
+[6] Design of Knowledge Graph Retrieval System for Legal and Regulatory Framework of Multilevel Latent Semantic Indexing
+[7] A Knowledge Graph Construction Approach for Legal Domain
+[8] Knowledge Graph-based Thematic Similarity for Indian Legal Judgement Documents using Rhetorical Roles
 ### Models
 [1] Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model.  
 [2] Llama 2: Open Foundation and Fine-Tuned Chat Models.  
