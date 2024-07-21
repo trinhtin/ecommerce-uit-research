@@ -72,6 +72,8 @@ By following these steps, you can systematically select a research topic that is
   - [AIED](https://dblp.uni-trier.de/db/conf/aied/aied2023.html): Rank A
 - Top Tier Conferences in WWW, AI, E-commerce:
   - [WWW](https://dblp.uni-trier.de/db/conf/www/www2024.html): Rank A*
+- Knowledge Graph, Information Retrieval:
+  - [SIGIR](https://dblp.uni-trier.de/db/conf/sigir/sigir2024.html): Rank A*
 
 ## Conferences / Journals Ranking
 - Conference Ranking (CR, AU): (https://portal.core.edu.au/conf-ranks)
