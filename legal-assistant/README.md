@@ -14,11 +14,11 @@ Dive deep into the foundational theories and practical applications of AI and LL
   - A vital resource for understanding the Transformers architecture, pivotal in modern LLMs. [Access here](https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition)
 
 ## :newspaper: Papers
-[1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)
-[2] Retrieval-Augmented Generation for Large Language Models: A Survey
-[3] Exploring the state of the art in legal QA systems
-[4] Large Language Models in Law: A Survey
-[5] Construction of Knowledge Graphs: State and Challenges
+[1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)  
+[2] Retrieval-Augmented Generation for Large Language Models: A Survey. [Access here](https://arxiv.org/pdf/2312.10997)  
+[3] Exploring the state of the art in legal QA systems. [Access here](https://arxiv.org/abs/2304.06623)  
+[4] Large Language Models in Law: A Survey. [Access here](https://arxiv.org/abs/2312.03718)  
+[5] Construction of Knowledge Graphs: State and Challenges. [Access here](https://arxiv.org/abs/2302.11509)
 
 ## 📺 Online Courses
 Enhance your understanding of LLMs with these expertly curated courses:
