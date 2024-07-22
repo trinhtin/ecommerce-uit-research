@@ -1,1 +1,1 @@
-print('Hello Legal Assistant')
+print("Hello Legal Assistant")
