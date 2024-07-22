@@ -1,5 +1,6 @@
 # Generative AI Learning Resources
 ## 📚 Books
+
 Dive deep into the foundational theories and practical applications of AI and LLMs with these essential readings:
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
   - The definitive textbook on AI, providing a thorough overview of the field and foundational concepts critical to the development of LLMs. [Access here](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)
@@ -11,10 +12,37 @@ Dive deep into the foundational theories and practical applications of AI and LL
   - Explores the capabilities of LLMs in learning from limited data, marking a significant advancement in the field. [Access here](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 - "Transformers for Natural Language Processing" by Denis Rothman
   - A vital resource for understanding the Transformers architecture, pivotal in modern LLMs. [Access here](https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition)
-
+### 📚 Knowledge Graph
+- Building Knowledge Graphs by Jesus Barrasa, Jim Webber
+- Knowledge Graphs Fundamentals, Techniques, and Applications by Mayank Kejriwal, Craig A. Knoblock, and Pedro Szekely
+### 📚 RAG
+- Building Data-Driven Applications with LlamaIndex by Andrei Gheorghiu
 ## :newspaper: Papers
-[1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)
-
+### RAG
+[1] Corrective Retrieval Augmented Generation  
+[2] DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation for Question-Answering  
+[3] Query Rewriting for Retrieval-Augmented Large Language Models
+[4] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+[5] Supportiveness-based Knowledge Rewriting for Retrieval-augmented Language Modeling
+### Knowledge Graph
+[1] Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs  
+[2] Concept and Context in Legal Information Retrieval  
+[3] graph2vec: Learning Distributed Representations of Graphs  
+[4] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities  
+[5] Architecture of Knowledge Graph Construction Techniques  
+[6] Design of Knowledge Graph Retrieval System for Legal and Regulatory Framework of Multilevel Latent Semantic Indexing
+[7] A Knowledge Graph Construction Approach for Legal Domain
+[8] Knowledge Graph-based Thematic Similarity for Indian Legal Judgement Documents using Rhetorical Roles
+### Models
+[1] Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model.  
+[2] Llama 2: Open Foundation and Fine-Tuned Chat Models.  
+[3] Understand Legal Documents with Contextualized Large Language Models.  
+### Survey
+[1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)  
+[2] Retrieval-Augmented Generation for Large Language Models: A Survey. [Access here](https://arxiv.org/pdf/2312.10997)  
+[3] Exploring the state of the art in legal QA systems. [Access here](https://arxiv.org/abs/2304.06623)  
+[4] Large Language Models in Law: A Survey. [Access here](https://arxiv.org/abs/2312.03718)  
+[5] Construction of Knowledge Graphs: State and Challenges. [Access here](https://arxiv.org/abs/2302.11509)
 
 ## 📺 Online Courses
 Enhance your understanding of LLMs with these expertly curated courses:
@@ -26,6 +54,11 @@ Enhance your understanding of LLMs with these expertly curated courses:
   - Focuses on building and deploying NLP models, offering practical experience with LLMs. [Enroll here](https://www.deeplearning.ai/courses/natural-language-processing-specialization/)
 - Generative AI for Beginners (Mirosoft)
   - Learn the fundamentals of building Generative AI applications with our 18-lesson comprehensive course by Microsoft Cloud Advocates. [View course](https://github.com/microsoft/generative-ai-for-beginners/)
+
+## Open source/Github link
+- Project NaLLM [Acess here](https://github.com/neo4j/NaLLM)
+  - Welcome to the NaLLM project repository, where we are exploring and demonstrating the synergies between Neo4j and Large Language Models (LLMs). As a part of our ongoing project, we are focusing on three primary use cases - a Natural Language Interface to a Knowledge Graph, Creating a Knowledge Graph from Unstructured Data and Generate a Report using both static data and data from LLM.
+- Transformers-Tutorials. [Access here](https://github.com/NielsRogge/Transformers-Tutorials)  
 
 ## 📺 Youtube 
 - Mì AI: (https://www.youtube.com/c/M%C3%ACAIblog)
