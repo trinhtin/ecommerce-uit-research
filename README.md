@@ -152,3 +152,16 @@ Get hands-on experience with these cutting-edge tools and libraries to apply, fi
   - Offers powerful API options to interact with advanced LLMs like GPT-3 and GPT-4, facilitating a range of applications from creative writing to technical problem-solving. [Access OpenAI API](https://beta.openai.com/)"
 - Together.xyz API
   - A platform that provides APIs for creating and deploying custom language models, enabling users to build powerful NLP applications with high customization potential. [Visit Together.xyz API](https://api.together.xyz/)
+
+## 🎒 Other Courses
+
+Microsoft team produces other courses! Check out:
+
+- [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+- [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+- [AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+- [**NEW** Cybersecurity for Beginners](https://github.com/microsoft/Security-101??WT.mc_id=academic-96948-sayoung)
+- [Web Dev for Beginners](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+- [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+- [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+- [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
