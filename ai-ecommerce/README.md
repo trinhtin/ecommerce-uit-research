@@ -1,3 +1,4 @@
+## Generative AI in E-commerce
 Generative AI has the potential to revolutionize various aspects of E-commerce, enhancing customer experience, optimizing operations, and driving innovation. Here are some key areas where generative AI is making an impact in E-commerce:
 
 ### 1. **Personalized Recommendations**
@@ -32,7 +33,9 @@ AI can generate detailed insights into customer behavior and preferences, helpin
 
 By leveraging generative AI, E-commerce businesses can enhance their operations, provide better customer experiences, and stay competitive in a rapidly evolving market.
 
+----------------------------------------
 
+## LLM in E-commerce
 Large Language Models (LLMs), like OpenAI's GPT-4, are transforming E-commerce by automating and enhancing various processes through advanced natural language processing capabilities. Here's how LLMs are being utilized in the E-commerce industry:
 
 ### 1. **Customer Service Automation**
