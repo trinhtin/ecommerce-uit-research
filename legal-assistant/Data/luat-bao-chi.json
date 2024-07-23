@@ -1,0 +1,1029 @@
+{
+    "chương i": {
+        "tên": "NHỮNG QUY ĐỊNH CHUNG",
+        "điều": {
+            "điều 1": {
+                "tên": "Phạm vi Điều chỉnh",
+                "điểm": {}
+            },
+            "điều 2": {
+                "tên": "Đối tượng áp dụng",
+                "điểm": {}
+            },
+            "điều 3": {
+                "tên": "Giải thích từ ngữ",
+                "điểm": {
+                    "1.": {
+                        "tên": "Báo chí là sản phẩm thông tin về các sự kiện, vấn đề trong đời sống xã hội thể hiện bằng chữ viết, hình ảnh, âm thanh, được sáng tạo, xuất bản định kỳ và phát hành, truyền dẫn tới đông đảo công chúng thông qua các loại hình báo in, báo nói, báo hình, báo điện tử."
+                    },
+                    "2.": {
+                        "tên": "Hoạt động báo chí là hoạt động sáng tạo tác phẩm báo chí, sản phẩm báo chí, sản phẩm thông tin có tính chất báo chí; cung cấp thông tin và phản hồi thông tin cho báo chí; cải chính thông tin trên báo chí; xuất bản, in, phát hành báo in; truyền dẫn báo điện tử và truyền dẫn, phát sóng báo nói, báo hình."
+                    },
+                    "3.": {
+                        "tên": "Báo in là loại hình báo chí sử dụng chữ viết, tranh, ảnh, thực hiện bằng phương tiện in để phát hành đến bạn đọc, gồm báo in, tạp chí in."
+                    },
+                    "4.": {
+                        "tên": "Báo nói là loại hình báo chí sử dụng tiếng nói, âm thanh, được truyền dẫn, phát sóng trên các hạ tầng kỹ thuật ứng dụng công nghệ khác nhau."
+                    },
+                    "5.": {
+                        "tên": "Báo hình là loại hình báo chí sử dụng hình ảnh là chủ yếu, kết hợp tiếng nói, âm thanh, chữ viết, được truyền dẫn, phát sóng trên các hạ tầng kỹ thuật ứng dụng công nghệ khác nhau."
+                    },
+                    "6.": {
+                        "tên": "Báo điện tử là loại hình báo chí sử dụng chữ viết, hình ảnh, âm thanh, được truyền dẫn trên môi trường mạng, gồm báo điện tử và tạp chí điện tử."
+                    },
+                    "7.": {
+                        "tên": "Tác phẩm báo chí là đơn vị cấu thành nhỏ nhất của sản phẩm báo chí, có nội dung độc lập và cấu tạo hoàn chỉnh, gồm tin, bài được thể hiện bằng chữ viết, âm thanh hoặc hình ảnh."
+                    },
+                    "8.": {
+                        "tên": "Sản phẩm báo chí là ấn phẩm, phụ trương của báo in; nội dung hoàn chỉnh của báo điện tử; bản tin thông tấn; kênh phát thanh, kênh truyền hình; chuyên trang của báo điện tử."
+                    },
+                    "9.": {
+                        "tên": "Bản tin thông tấn là sản phẩm báo chí xuất bản định kỳ của cơ quan thông tấn nhà nước, được thể hiện bằng chữ viết, tiếng nói, âm thanh, hình ảnh để chuyển tải tin tức thời sự trong nước, thế giới hoặc thông tin có tính chất chuyên đề."
+                    },
+                    "10.": {
+                        "tên": "Chương trình phát thanh, chương trình truyền hình là tập hợp các tin, bài trên báo nói, báo hình theo một chủ đề trong thời lượng nhất định, có dấu hiệu nhận biết mở đầu và kết thúc."
+                    },
+                    "11.": {
+                        "tên": "Kênh phát thanh, kênh truyền hình là sản phẩm báo chí, gồm các chương trình phát thanh, truyền hình được sắp xếp ổn định, liên tục, được phát sóng trong khung giờ nhất định và có dấu hiệu nhận biết."
+                    },
+                    "12.": {
+                        "tên": "Phụ trương là trang tăng thêm ngoài số trang quy định và được phát hành cùng số chính của báo in."
+                    },
+                    "13.": {
+                        "tên": "Trang chủ là trang thông tin hiển thị đầu tiên của báo điện tử, có địa chỉ tên miền quy định tại giấy phép hoạt động báo điện tử."
+                    },
+                    "14.": {
+                        "tên": "Chuyên trang của báo điện tử là trang thông tin về một chủ đề nhất định, phù hợp với tôn chỉ, Mục đích của báo điện tử, có tên miền cấp dưới của tên miền đã được quy định tại giấy phép hoạt động báo điện tử."
+                    },
+                    "15.": {
+                        "tên": "Tạp chí điện tử là sản phẩm báo chí xuất bản định kỳ, đăng tin, bài có tính chất chuyên ngành, được truyền dẫn trên môi trường mạng."
+                    },
+                    "16.": {
+                        "tên": "Tạp chí khoa học là sản phẩm báo chí xuất bản định kỳ để công bố kết quả nghiên cứu khoa học, thông tin về hoạt động khoa học chuyên ngành."
+                    },
+                    "17.": {
+                        "tên": "Sản phẩm thông tin có tính chất báo chí là sản phẩm thông tin được thể hiện bằng các thể loại báo chí, được đăng trên bản tin, đặc san, trang thông tin điện tử tổng hợp của cơ quan, tổ chức, doanh nghiệp."
+                    },
+                    "18.": {
+                        "tên": "Bản tin là sản phẩm thông tin có tính chất báo chí xuất bản định kỳ, sử dụng thể loại tin tức để thông tin về hoạt động nội bộ, hướng dẫn nghiệp vụ, kết quả nghiên cứu, ứng dụng, kết quả các cuộc hội thảo, hội nghị của cơ quan, tổ chức, doanh nghiệp."
+                    },
+                    "19.": {
+                        "tên": "Đặc san là sản phẩm thông tin có tính chất báo chí xuất bản không định kỳ theo sự kiện, chủ đề."
+                    },
+                    "20.": {
+                        "tên": "Trang thông tin điện tử tổng hợp là sản phẩm thông tin có tính chất báo chí của cơ quan, tổ chức, doanh nghiệp, cung cấp thông tin tổng hợp trên cơ sở đăng đường dẫn truy cập tới nguồn tin báo chí hoặc trích dẫn nguyên văn, chính xác nguồn tin báo chí theo quy định của pháp luật về sở hữu trí tuệ."
+                    }
+                }
+            },
+            "điều 4": {
+                "tên": "Chức năng, nhiệm vụ và quyền hạn của báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Báo chí ở nước Cộng hòa xã hội chủ nghĩa Việt Nam là phương tiện thông tin thiết yếu đối với đời sống xã hội; là cơ quan ngôn luận của cơ quan Đảng, cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp; là diễn đàn của Nhân dân."
+                    },
+                    "2.": {
+                        "tên": "Báo chí có nhiệm vụ, quyền hạn sau đây:"
+                    }
+                }
+            },
+            "điều 5": {
+                "tên": "Chính sách của Nhà nước về phát triển báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Có chiến lược, quy hoạch phát triển và quản lý hệ thống báo chí."
+                    },
+                    "2.": {
+                        "tên": "Đầu tư có trọng tâm, trọng Điểm trong các lĩnh vực đào tạo, bồi dưỡng nhân lực về chuyên môn, nghiệp vụ và quản lý hoạt động báo chí, nghiên cứu khoa học, ứng dụng công nghệ hiện đại cho các cơ quan báo chí."
+                    },
+                    "3.": {
+                        "tên": "Đặt hàng báo chí phục vụ nhiệm vụ chính trị, an ninh, quốc phòng, thông tin đối ngoại, phục vụ thiếu niên, nhi đồng, người khiếm thính, khiếm thị, đồng bào vùng dân tộc thiểu số, vùng có Điều kiện kinh tế - xã hội đặc biệt khó khăn, vùng sâu, vùng xa, miền núi, biên giới, hải đảo và các nhiệm vụ trọng yếu khác phù hợp với từng giai đoạn theo quyết định của Thủ tướng Chính phủ."
+                    },
+                    "4.": {
+                        "tên": "Hỗ trợ cước vận chuyển báo chí phục vụ nhiệm vụ, đối tượng và địa bàn quy định tại Khoản 3 Điều này."
+                    }
+                }
+            },
+            "điều 6": {
+                "tên": "Nội dung quản lý nhà nước về báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Xây dựng, chỉ đạo và tổ chức thực hiện chiến lược, quy hoạch, kế hoạch phát triển báo chí."
+                    },
+                    "2.": {
+                        "tên": "Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về báo chí; xây dựng chế độ, chính sách về báo chí."
+                    },
+                    "3.": {
+                        "tên": "Tổ chức thông tin cho báo chí; quản lý thông tin của báo chí."
+                    },
+                    "4.": {
+                        "tên": "Đào tạo, bồi dưỡng nâng cao trình độ chính trị, nghiệp vụ, đạo đức nghề nghiệp cho đội ngũ người làm báo của các cơ quan báo chí và cán bộ quản lý báo chí."
+                    },
+                    "5.": {
+                        "tên": "Tổ chức quản lý hoạt động khoa học, công nghệ trong lĩnh vực báo chí."
+                    },
+                    "6.": {
+                        "tên": "Cấp, thu hồi các loại giấy phép trong hoạt động báo chí và thẻ nhà báo."
+                    },
+                    "7.": {
+                        "tên": "Quản lý hợp tác quốc tế về báo chí, quản lý hoạt động của cơ quan báo chí Việt Nam liên quan đến nước ngoài và hoạt động của báo chí nước ngoài tại Việt Nam."
+                    },
+                    "8.": {
+                        "tên": "Kiểm tra báo chí lưu chiểu; quản lý hệ thống lưu chiểu báo chí quốc gia."
+                    },
+                    "9.": {
+                        "tên": "Chỉ đạo, thực hiện chế độ thông tin, báo cáo, thống kê và công tác khen thưởng, kỷ luật trong hoạt động báo chí."
+                    },
+                    "10.": {
+                        "tên": "Thanh tra, kiểm tra và xử lý vi phạm pháp luật về báo chí."
+                    }
+                }
+            },
+            "điều 7": {
+                "tên": "Cơ quan quản lý nhà nước về báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Chính phủ thống nhất quản lý nhà nước về báo chí."
+                    },
+                    "2.": {
+                        "tên": "Bộ Thông tin và Truyền thông chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về báo chí."
+                    },
+                    "3.": {
+                        "tên": "Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Thông tin và Truyền thông thực hiện quản lý nhà nước về báo chí."
+                    },
+                    "4.": {
+                        "tên": "Ủy ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm quản lý nhà nước về báo chí tại địa phương."
+                    }
+                }
+            },
+            "điều 8": {
+                "tên": "Hội Nhà báo Việt Nam",
+                "điểm": {
+                    "1.": {
+                        "tên": "Hội Nhà báo Việt Nam là tổ chức chính trị xã hội - nghề nghiệp, được thành lập và hoạt động theo quy định của pháp luật về hội."
+                    },
+                    "2.": {
+                        "tên": "Hội Nhà báo Việt Nam có nhiệm vụ, quyền hạn sau đây:"
+                    }
+                }
+            },
+            "điều 9": {
+                "tên": "Các hành vi bị nghiêm cấm",
+                "điểm": {
+                    "1.": {
+                        "tên": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017."
+                    },
+                    "2.": {
+                        "tên": "Luật báo chí ngày 28 tháng 12 năm 1989 đã được sửa đổi, bổ sung một số Điều theo Luật số 12/1999/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+                    },
+                    "3.": {
+                        "tên": "Người đứng đầu cơ quan chủ quản báo chí, tổng giám đốc, phó tổng giám đốc, giám đốc, phó giám đốc, tổng biên tập, phó tổng biên tập cơ quan báo chí, nhà báo, tác giả tác phẩm báo chí và cá nhân khác có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, thu hồi thẻ nhà báo, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự."
+                    },
+                    "4.": {
+                        "tên": "Tổ chức, cá nhân có hành vi xâm phạm quyền sở hữu trí tuệ trong lĩnh vực báo chí thì bị xử lý theo quy định của pháp luật về sở hữu trí tuệ."
+                    },
+                    "5.": {
+                        "tên": "Trường hợp cơ quan báo chí, nhà báo, tổ chức, cá nhân tham gia hoạt động báo chí vi phạm gây thiệt hại đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác, ngoài việc bị xử lý theo quy định tại các Khoản 1, 2, 3 và 4 Điều này, còn phải công khai xin lỗi, cải chính trên báo chí, bồi thường thiệt hại theo quy định của pháp luật."
+                    },
+                    "6.": {
+                        "tên": "Phóng viên thường trú được Bộ Ngoại giao cấp thẻ phóng viên nước ngoài, có giá trị không quá 12 tháng, phù hợp với thời hạn thị thực nhập cảnh, xuất cảnh của phóng viên."
+                    },
+                    "7.": {
+                        "tên": "Hoạt động thông tin, báo chí của phóng viên thường trú thực hiện theo quy định sau đây:"
+                    },
+                    "8.": {
+                        "tên": "Văn phòng thường trú được thuê trợ lý báo chí, thuê cộng tác viên để hỗ trợ các hoạt động của văn phòng thường trú, phóng viên thường trú."
+                    },
+                    "9.": {
+                        "tên": "Việc nhập khẩu, xuất khẩu phương tiện, trang thiết bị của báo chí nước ngoài thực hiện theo quy định sau đây:"
+                    },
+                    "10.": {
+                        "tên": "Việc họp báo được thực hiện theo quy định sau đây:"
+                    },
+                    "11.": {
+                        "tên": "Việc xuất bản bản tin, đặc san của cơ quan đại diện nước ngoài, tổ chức nước ngoài thực hiện theo quy định tại Điều 34 và Điều 35 của Luật này."
+                    },
+                    "12.": {
+                        "tên": "Hồ sơ, trình tự, thủ tục quy định tại các Khoản 2, 4, 5, 6, 7 và 8 Điều này do Chính phủ quy định."
+                    },
+                    "13.": {
+                        "tên": "Đăng, phát trên sản phẩm thông tin có tính chất báo chí thông tin quy định tại các Khoản 1, 2, 3, 4, 5, 6, 7, 8, 9 và 10 của Điều này."
+                    }
+                }
+            }
+        }
+    },
+    "chương ii": {
+        "tên": "QUYỀN TỰ DO BÁO CHÍ, QUYỀN TỰ DO NGÔN LUẬN TRÊN BÁO CHÍ CỦA CÔNG DÂN",
+        "điều": {
+            "điều 10": {
+                "tên": "Quyền tự do báo chí của công dân",
+                "điểm": {
+                    "1.": {
+                        "tên": "Sáng tạo tác phẩm báo chí."
+                    },
+                    "2.": {
+                        "tên": "Cung cấp thông tin cho báo chí."
+                    },
+                    "3.": {
+                        "tên": "Phản hồi thông tin trên báo chí."
+                    },
+                    "4.": {
+                        "tên": "Tiếp cận thông tin báo chí."
+                    },
+                    "5.": {
+                        "tên": "Liên kết với cơ quan báo chí thực hiện sản phẩm báo chí."
+                    },
+                    "6.": {
+                        "tên": "In, phát hành báo in."
+                    }
+                }
+            },
+            "điều 11": {
+                "tên": "Quyền tự do ngôn luận trên báo chí của công dân",
+                "điểm": {
+                    "1.": {
+                        "tên": "Phát biểu ý kiến về tình hình đất nước và thế giới."
+                    },
+                    "2.": {
+                        "tên": "Tham gia ý kiến xây dựng và thực hiện đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước."
+                    },
+                    "3.": {
+                        "tên": "Góp ý kiến, phê bình, kiến nghị, khiếu nại, tố cáo trên báo chí đối với các tổ chức của Đảng, cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp và các tổ chức, cá nhân khác."
+                    }
+                }
+            },
+            "điều 12": {
+                "tên": "Trách nhiệm của cơ quan báo chí đối với quyền tự do báo chí, quyền tự do ngôn luận trên báo chí của công dân",
+                "điểm": {}
+            },
+            "điều 9": {
+                "tên": "ủa Luật này; trong trường hợp không đăng, phát phải trả lời và nêu rõ lý do khi có yêu cầu.",
+                "điểm": {
+                    "1.": {
+                        "tên": "Đăng, phát kiến nghị, phê bình, tin, bài, ảnh và tác phẩm báo chí khác của công dân phù hợp với tôn chỉ, Mục đích và không có nội dung quy định tại các Khoản 1, 2, 3, 4, 5, 6, 7, 8, 9 và 10 Điều 9 của Luật này; trong trường hợp không đăng, phát phải trả lời và nêu rõ lý do khi có yêu cầu."
+                    },
+                    "2.": {
+                        "tên": "Trả lời hoặc yêu cầu tổ chức, người có thẩm quyền trả lời bằng văn bản hoặc trả lời trên báo chí về kiến nghị, khiếu nại, tố cáo của công dân gửi đến."
+                    }
+                }
+            },
+            "điều 13": {
+                "tên": "Trách nhiệm của Nhà nước đối với quyền tự do báo chí, quyền tự do ngôn luận trên báo chí của công dân",
+                "điểm": {
+                    "1.": {
+                        "tên": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017."
+                    },
+                    "2.": {
+                        "tên": "Luật báo chí ngày 28 tháng 12 năm 1989 đã được sửa đổi, bổ sung một số Điều theo Luật số 12/1999/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+                    },
+                    "3.": {
+                        "tên": "Người đứng đầu cơ quan chủ quản báo chí, tổng giám đốc, phó tổng giám đốc, giám đốc, phó giám đốc, tổng biên tập, phó tổng biên tập cơ quan báo chí, nhà báo, tác giả tác phẩm báo chí và cá nhân khác có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, thu hồi thẻ nhà báo, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự."
+                    },
+                    "4.": {
+                        "tên": "Tổ chức, cá nhân có hành vi xâm phạm quyền sở hữu trí tuệ trong lĩnh vực báo chí thì bị xử lý theo quy định của pháp luật về sở hữu trí tuệ."
+                    },
+                    "5.": {
+                        "tên": "Trường hợp cơ quan báo chí, nhà báo, tổ chức, cá nhân tham gia hoạt động báo chí vi phạm gây thiệt hại đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác, ngoài việc bị xử lý theo quy định tại các Khoản 1, 2, 3 và 4 Điều này, còn phải công khai xin lỗi, cải chính trên báo chí, bồi thường thiệt hại theo quy định của pháp luật."
+                    },
+                    "6.": {
+                        "tên": "Phóng viên thường trú được Bộ Ngoại giao cấp thẻ phóng viên nước ngoài, có giá trị không quá 12 tháng, phù hợp với thời hạn thị thực nhập cảnh, xuất cảnh của phóng viên."
+                    },
+                    "7.": {
+                        "tên": "Hoạt động thông tin, báo chí của phóng viên thường trú thực hiện theo quy định sau đây:"
+                    },
+                    "8.": {
+                        "tên": "Văn phòng thường trú được thuê trợ lý báo chí, thuê cộng tác viên để hỗ trợ các hoạt động của văn phòng thường trú, phóng viên thường trú."
+                    },
+                    "9.": {
+                        "tên": "Việc nhập khẩu, xuất khẩu phương tiện, trang thiết bị của báo chí nước ngoài thực hiện theo quy định sau đây:"
+                    },
+                    "10.": {
+                        "tên": "Việc họp báo được thực hiện theo quy định sau đây:"
+                    },
+                    "11.": {
+                        "tên": "Việc xuất bản bản tin, đặc san của cơ quan đại diện nước ngoài, tổ chức nước ngoài thực hiện theo quy định tại Điều 34 và Điều 35 của Luật này."
+                    },
+                    "12.": {
+                        "tên": "Hồ sơ, trình tự, thủ tục quy định tại các Khoản 2, 4, 5, 6, 7 và 8 Điều này do Chính phủ quy định."
+                    }
+                }
+            }
+        }
+    },
+    "chương iii": {
+        "tên": "TỔ CHỨC BÁO CHÍ",
+        "điều": {
+            "điều 14": {
+                "tên": "ủa Luật này, đủ Điều kiện theo quy định tại Điều 17 của Luật này, có nhu cầu thành lập cơ quan báo chí, gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính đề nghị Bộ Thông tin và Truyền thông cấp giấy phép hoạt động báo chí.",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan, tổ chức quy định tại Điều 14 của Luật này, đủ Điều kiện theo quy định tại Điều 17 của Luật này, có nhu cầu thành lập cơ quan báo chí, gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính đề nghị Bộ Thông tin và Truyền thông cấp giấy phép hoạt động báo chí."
+                    },
+                    "2.": {
+                        "tên": "Trong thời hạn 90 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Thông tin và Truyền thông cấp giấy phép hoạt động báo chí; trường hợp từ chối cấp phải thông báo bằng văn bản và nêu rõ lý do."
+                    },
+                    "3.": {
+                        "tên": "Sau khi được cấp giấy phép hoạt động báo chí, cơ quan chủ quản báo chí ra quyết định thành lập cơ quan báo chí và thông báo trên các phương tiện thông tin đại chúng."
+                    },
+                    "4.": {
+                        "tên": "Sau 03 tháng đối với báo in và báo điện tử, 09 tháng đối với báo nói, báo hình, kể từ ngày giấy phép hoạt động báo chí có hiệu lực, nếu cơ quan báo chí không được thành lập hoặc không có sản phẩm báo chí thì giấy phép hết hiệu lực. Bộ Thông tin và Truyền thông ra quyết định thu hồi giấy phép."
+                    },
+                    "5.": {
+                        "tên": "Chậm nhất là 30 ngày trước ngày dự kiến chấm dứt hoạt động, cơ quan báo chí phải thông báo bằng văn bản cho Bộ Thông tin và Truyền thông để thu hồi giấy phép hoạt động báo chí và thông báo trên phương tiện thông tin đại chúng."
+                    },
+                    "6.": {
+                        "tên": "Trường hợp đã bị thu hồi giấy phép hoạt động báo chí theo quy định tại Khoản 4 và Khoản 5 Điều này, nếu có nhu cầu cấp lại giấy phép, cơ quan chủ quản báo chí gửi văn bản đề nghị Bộ Thông tin và Truyền thông cấp lại giấy phép. Trường hợp có thay đổi nội dung so với giấy phép đã được cấp, cơ quan chủ quản gửi hồ sơ đề nghị Bộ Thông tin và Truyền thông cấp giấy phép theo quy định tại Khoản 1 Điều này."
+                    }
+                }
+            },
+            "điều 15": {
+                "tên": "Quyền hạn và nhiệm vụ của cơ quan chủ quản báo chí",
+                "điểm": {}
+            },
+            "điều 16": {
+                "tên": "Cơ quan báo chí",
+                "điểm": {}
+            },
+            "điều 17": {
+                "tên": "Điều kiện cấp giấy phép hoạt động báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Xác định loại hình báo chí; tôn chỉ, Mục đích phù hợp với chức năng, nhiệm vụ của cơ quan chủ quản; đối tượng phục vụ; chương trình, thời gian, thời lượng, phương thức truyền dẫn, phát sóng (đối với báo nói, báo hình); tên miền, nơi đặt máy chủ và đơn vị cung cấp dịch vụ kết nối (đối với báo điện tử)."
+                    }
+                }
+            },
+            "điều 23": {
+                "tên": "Người đứng đầu cơ quan báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Người đứng đầu cơ quan báo chí là Tổng biên tập (đối với báo in, báo điện tử), là Tổng giám đốc hoặc giám đốc (đối với báo nói, báo hình)."
+                    },
+                    "2.": {
+                        "tên": "Tiêu chuẩn bổ nhiệm người đứng đầu cơ quan báo chí gồm:"
+                    }
+                }
+            },
+            "điều 18": {
+                "tên": "ủa Luật này.",
+                "điểm": {}
+            },
+            "điều 19": {
+                "tên": "Thay đổi cơ quan chủ quản của cơ quan báo chí",
+                "điểm": {}
+            },
+            "điều 20": {
+                "tên": "Thay đổi nội dung ghi trong giấy phép hoạt động báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Chậm nhất là 05 ngày kể từ ngày thay đổi địa Điểm trụ sở chính, điện thoại, fax, thư điện tử, thời gian phát hành, đơn vị cung cấp dịch vụ kết nối Internet, cơ quan báo chí phải thông báo với cơ quan quản lý nhà nước về báo chí."
+                    },
+                    "2.": {
+                        "tên": "Khi thay đổi tên gọi cơ quan chủ quản báo chí, tên gọi cơ quan báo chí; tôn chỉ, Mục đích; tên gọi ấn phẩm báo chí, phụ trương, chuyên trang của báo điện tử, kênh phát thanh, kênh truyền hình; địa Điểm phát sóng, địa Điểm trụ sở gắn với trung tâm tổng khống chế; phương thức truyền dẫn, phát sóng; thời lượng kênh phát thanh, kênh truyền hình; tên miền của chuyên trang và báo điện tử, cơ quan chủ quản phải có hồ sơ đề nghị Bộ Thông tin và Truyền thông sửa đổi, bổ sung giấy phép."
+                    },
+                    "3.": {
+                        "tên": "Khi thay đổi hình thức trình bày, vị trí của tên ấn phẩm báo chí, phụ trương; biểu tượng kênh phát thanh, kênh truyền hình; kỳ hạn xuất bản, số trang, khuôn khổ và những nội dung thay đổi không quy định tại Khoản 1 và Khoản 2 Điều này, cơ quan chủ quản báo chí có văn bản đề nghị Bộ Thông tin và Truyền thông. Việc thay đổi chỉ được thực hiện sau khi có văn bản chấp thuận của Bộ Thông tin và Truyền thông."
+                    }
+                }
+            },
+            "điều 21": {
+                "tên": "Loại hình hoạt động và nguồn thu của cơ quan báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan báo chí hoạt động theo loại hình đơn vị sự nghiệp có thu."
+                    },
+                    "2.": {
+                        "tên": "Nguồn thu của cơ quan báo chí gồm:"
+                    }
+                }
+            },
+            "điều 22": {
+                "tên": "Văn phòng đại diện, phóng viên thường trú của cơ quan báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Điều kiện đặt văn phòng đại diện gồm:"
+                    },
+                    "2.": {
+                        "tên": "Phóng viên thường trú hoạt động độc lập phải có thẻ nhà báo được cấp tại cơ quan báo chí cử phóng viên thường trú và không bị kỷ luật từ hình thức khiển trách trở lên theo quy định của pháp luật về công chức, viên chức và pháp luật về lao động trong thời hạn 01 năm tính đến khi cử phóng viên thường trú."
+                    },
+                    "3.": {
+                        "tên": "Trước khi bắt đầu hoạt động 15 ngày, cơ quan báo chí có đủ Điều kiện và có nhu cầu đặt văn phòng đại diện tại tỉnh, thành phố trực thuộc trung ương gửi trực tiếp hoặc qua hệ thống bưu chính một bộ hồ sơ đến Ủy ban nhân dân cấp tỉnh nơi cơ quan báo chí đặt văn phòng đại diện để thông báo. Hồ sơ gồm:"
+                    },
+                    "4.": {
+                        "tên": "Ủy ban nhân dân cấp tỉnh có trách nhiệm kiểm tra các Điều kiện hoạt động của văn phòng đại diện; trường hợp không đủ Điều kiện, Ủy ban nhân dân cấp tỉnh có văn bản yêu cầu cơ quan báo chí chấm dứt hoạt động của văn phòng đại diện và xử lý theo quy định của pháp luật."
+                    },
+                    "5.": {
+                        "tên": "Cơ quan báo chí chưa có văn phòng đại diện, có nhu cầu cử phóng viên thường trú hoạt động độc lập tại các tỉnh, thành phố trực thuộc trung ương gửi trực tiếp hoặc qua hệ thống bưu chính một bộ hồ sơ thông báo hoạt động của phóng viên thường trú đến Ủy ban nhân dân cấp tỉnh nơi phóng viên thường trú hoạt động. Hồ sơ gồm:"
+                    },
+                    "6.": {
+                        "tên": "Chậm nhất là 05 ngày trước khi có sự thay đổi về địa Điểm, trưởng văn phòng đại diện, phóng viên thường trú hoặc đình chỉ, chấm dứt hoạt động của văn phòng đại diện, phóng viên thường trú, cơ quan báo chí thông báo bằng văn bản với Ủy ban nhân dân cấp tỉnh nơi đặt văn phòng đại diện, nơi có phóng viên thường trú hoạt động."
+                    },
+                    "7.": {
+                        "tên": "Hoạt động của văn phòng đại diện, phóng viên thường trú phải phù hợp với tôn chỉ, Mục đích của cơ quan báo chí; đúng nhiệm vụ, quyền hạn, trách nhiệm do cơ quan báo chí giao và tuân thủ quy định của pháp luật về báo chí và quy định khác của pháp luật có liên quan."
+                    },
+                    "8.": {
+                        "tên": "Văn phòng đại diện, phóng viên thường trú ngừng hoạt động ngay sau khi cơ quan báo chí có văn phòng đại diện, phóng viên thường trú bị thu hồi giấy phép hoạt động báo chí hoặc phóng viên thường trú độc lập bị thu hồi thẻ nhà báo theo quyết định của Bộ Thông tin và Truyền thông."
+                    }
+                }
+            },
+            "điều 24": {
+                "tên": "Nhiệm vụ và quyền hạn của người đứng đầu cơ quan báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Chịu trách nhiệm trước cơ quan chủ quản báo chí và trước pháp luật về mọi hoạt động của cơ quan báo chí trong phạm vi nhiệm vụ và quyền hạn của mình."
+                    },
+                    "2.": {
+                        "tên": "Xây dựng và tổ chức thực hiện kế hoạch hoạt động của cơ quan báo chí."
+                    },
+                    "3.": {
+                        "tên": "Phê duyệt kết cấu nội dung ấn phẩm; kênh, chương trình phát thanh, truyền hình; báo, chuyên trang của báo điện tử."
+                    },
+                    "4.": {
+                        "tên": "Chỉ đạo thực hiện đúng tôn chỉ, Mục đích và các quy định ghi trong giấy phép."
+                    },
+                    "5.": {
+                        "tên": "Quản lý nhân sự, tổ chức đào tạo, bồi dưỡng nhà báo, phóng viên, nhân viên; quản lý tài sản, cơ sở vật chất của cơ quan báo chí."
+                    },
+                    "6.": {
+                        "tên": "Không được đảm nhiệm chức danh người đứng đầu, cấp phó của người đứng đầu cơ quan báo chí khác."
+                    }
+                }
+            },
+            "điều 25": {
+                "tên": "Quyền và nghĩa vụ của nhà báo",
+                "điểm": {
+                    "1.": {
+                        "tên": "Nhà báo là người hoạt động báo chí được cấp thẻ nhà báo."
+                    },
+                    "2.": {
+                        "tên": "Nhà báo có các quyền sau đây:"
+                    },
+                    "3.": {
+                        "tên": "Nhà báo có các nghĩa vụ sau đây:"
+                    }
+                }
+            },
+            "điều 26": {
+                "tên": "ủa Luật này; người được cấp thẻ nhà báo đã nghỉ hưu; người đã hết thời hạn hợp đồng lao động nhưng không được ký tiếp hợp đồng lao động mới hoặc không tiếp tục làm việc tại cơ quan báo chí;",
+                "điểm": {
+                    "6.": {
+                        "tên": "Phóng viên thường trú được Bộ Ngoại giao cấp thẻ phóng viên nước ngoài, có giá trị không quá 12 tháng, phù hợp với thời hạn thị thực nhập cảnh, xuất cảnh của phóng viên."
+                    },
+                    "7.": {
+                        "tên": "Hoạt động thông tin, báo chí của phóng viên thường trú thực hiện theo quy định sau đây:"
+                    },
+                    "8.": {
+                        "tên": "Văn phòng thường trú được thuê trợ lý báo chí, thuê cộng tác viên để hỗ trợ các hoạt động của văn phòng thường trú, phóng viên thường trú."
+                    },
+                    "1.": {
+                        "tên": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017."
+                    },
+                    "2.": {
+                        "tên": "Luật báo chí ngày 28 tháng 12 năm 1989 đã được sửa đổi, bổ sung một số Điều theo Luật số 12/1999/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+                    },
+                    "3.": {
+                        "tên": "Người đứng đầu cơ quan chủ quản báo chí, tổng giám đốc, phó tổng giám đốc, giám đốc, phó giám đốc, tổng biên tập, phó tổng biên tập cơ quan báo chí, nhà báo, tác giả tác phẩm báo chí và cá nhân khác có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, thu hồi thẻ nhà báo, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự."
+                    },
+                    "4.": {
+                        "tên": "Tổ chức, cá nhân có hành vi xâm phạm quyền sở hữu trí tuệ trong lĩnh vực báo chí thì bị xử lý theo quy định của pháp luật về sở hữu trí tuệ."
+                    },
+                    "5.": {
+                        "tên": "Trường hợp cơ quan báo chí, nhà báo, tổ chức, cá nhân tham gia hoạt động báo chí vi phạm gây thiệt hại đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác, ngoài việc bị xử lý theo quy định tại các Khoản 1, 2, 3 và 4 Điều này, còn phải công khai xin lỗi, cải chính trên báo chí, bồi thường thiệt hại theo quy định của pháp luật."
+                    },
+                    "9.": {
+                        "tên": "Việc nhập khẩu, xuất khẩu phương tiện, trang thiết bị của báo chí nước ngoài thực hiện theo quy định sau đây:"
+                    },
+                    "10.": {
+                        "tên": "Việc họp báo được thực hiện theo quy định sau đây:"
+                    },
+                    "11.": {
+                        "tên": "Việc xuất bản bản tin, đặc san của cơ quan đại diện nước ngoài, tổ chức nước ngoài thực hiện theo quy định tại Điều 34 và Điều 35 của Luật này."
+                    },
+                    "12.": {
+                        "tên": "Hồ sơ, trình tự, thủ tục quy định tại các Khoản 2, 4, 5, 6, 7 và 8 Điều này do Chính phủ quy định."
+                    }
+                }
+            },
+            "điều 27": {
+                "tên": "ủa Luật này để hoạt động báo chí.",
+                "điểm": {
+                    "1.": {
+                        "tên": "Thẻ nhà báo cấp cho những người có đủ Điều kiện, tiêu chuẩn theo quy định tại Điều 27 của Luật này để hoạt động báo chí."
+                    },
+                    "2.": {
+                        "tên": "Kỳ hạn cấp thẻ nhà báo là 05 năm. Thời hạn sử dụng thẻ nhà báo được ghi trên thẻ. Trong trường hợp đặc biệt, việc gia hạn thời hạn sử dụng thẻ nhà báo do Bộ trưởng Bộ Thông tin và Truyền thông quyết định."
+                    }
+                }
+            },
+            "điều 28": {
+                "tên": "Cấp, đổi, thu hồi thẻ nhà báo",
+                "điểm": {}
+            }
+        }
+    },
+    "chương iv": {
+        "tên": "HOẠT ĐỘNG BÁO CHÍ",
+        "điều": {
+            "điều 29": {
+                "tên": "Thực hiện thêm loại hình báo chí",
+                "điểm": {}
+            },
+            "điều 17": {
+                "tên": "ủa Luật này nếu có nhu cầu thực hiện thêm loại hình báo chí khác thì cơ quan chủ quản báo chí gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính đề nghị Bộ Thông tin và Truyền thông cấp giấy phép.",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan báo chí có đủ Điều kiện theo quy định tại Điều 17 của Luật này nếu có nhu cầu thực hiện thêm loại hình báo chí khác thì cơ quan chủ quản báo chí gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính đề nghị Bộ Thông tin và Truyền thông cấp giấy phép."
+                    }
+                }
+            },
+            "điều 18": {
+                "tên": "ủa Luật này.",
+                "điểm": {
+                    "2.": {
+                        "tên": "Sau 03 tháng đối với báo in và báo điện tử, 09 tháng đối với báo nói, báo hình kể từ ngày giấy phép hoạt động báo chí có hiệu lực, nếu cơ quan báo chí không có sản phẩm báo chí thì giấy phép hết hiệu lực. Bộ Thông tin và Truyền thông ra quyết định thu hồi giấy phép."
+                    },
+                    "3.": {
+                        "tên": "Chậm nhất là 30 ngày trước ngày tạm ngừng thực hiện loại hình báo chí, cơ quan báo chí phải báo cáo bằng văn bản cho Bộ Thông tin và Truyền thông và thông báo trên phương tiện thông tin đại chúng."
+                    },
+                    "4.": {
+                        "tên": "Chậm nhất là 30 ngày trước ngày chấm dứt thực hiện loại hình báo chí, cơ quan báo chí phải thông báo bằng văn bản cho Bộ Thông tin và Truyền thông để thu hồi giấy phép và thông báo trên phương tiện thông tin đại chúng."
+                    },
+                    "5.": {
+                        "tên": "Trường hợp đã bị thu hồi giấy phép theo quy định tại các Khoản 2, 3 và 4 Điều này, nếu có nhu cầu cấp lại giấy phép thì cơ quan chủ quản báo chí gửi văn bản đề nghị Bộ Thông tin và Truyền thông cấp lại giấy phép. Trường hợp có thay đổi nội dung so với giấy phép đã được cấp, cơ quan chủ quản báo chí gửi hồ sơ đề nghị Bộ Thông tin và Truyền thông cấp giấy phép theo quy định tại Khoản 1 Điều này."
+                    }
+                }
+            },
+            "điều 30": {
+                "tên": "ủa Luật này có nhu cầu xuất bản thêm ấn phẩm báo chí, phụ trương; sản xuất thêm kênh phát thanh, kênh truyền hình; mở chuyên trang của báo điện tử, cơ quan chủ quản báo chí gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính đề nghị Bộ Thông tin và Truyền thông cấp giấy phép.",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan báo chí có đủ Điều kiện theo quy định tại Điều 30 của Luật này có nhu cầu xuất bản thêm ấn phẩm báo chí, phụ trương; sản xuất thêm kênh phát thanh, kênh truyền hình; mở chuyên trang của báo điện tử, cơ quan chủ quản báo chí gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính đề nghị Bộ Thông tin và Truyền thông cấp giấy phép."
+                    },
+                    "2.": {
+                        "tên": "Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Thông tin và Truyền thông có trách nhiệm cấp giấy phép xuất bản thêm ấn phẩm báo chí, phụ trương; sản xuất thêm kênh phát thanh, kênh truyền hình; mở chuyên trang của báo điện tử. Trường hợp từ chối cấp, Bộ Thông tin và Truyền thông phải thông báo bằng văn bản và nêu rõ lý do."
+                    },
+                    "3.": {
+                        "tên": "Sau 02 tháng kể từ ngày giấy phép xuất bản thêm ấn phẩm báo chí, phụ trương, mở chuyên trang của báo điện tử, 06 tháng kể từ ngày giấy phép sản xuất thêm kênh phát thanh, kênh truyền hình có hiệu lực, nếu cơ quan báo chí không có sản phẩm báo chí thì giấy phép hết hiệu lực. Bộ Thông tin và Truyền thông ra quyết định thu hồi giấy phép."
+                    },
+                    "4.": {
+                        "tên": "Chậm nhất là 30 ngày trước ngày tạm ngừng xuất bản ấn phẩm báo chí, phụ trương, sản xuất kênh phát thanh, kênh truyền hình, chuyên trang của báo điện tử, cơ quan báo chí phải thông báo bằng văn bản cho Bộ Thông tin và Truyền thông và trên phương tiện thông tin đại chúng."
+                    },
+                    "5.": {
+                        "tên": "Chậm nhất là 30 ngày trước khi chấm dứt xuất bản ấn phẩm báo chí, phụ trương, sản xuất kênh phát thanh, kênh truyền hình, chuyên trang của báo điện tử, cơ quan báo chí phải thông báo bằng văn bản cho Bộ Thông tin và Truyền thông để thu hồi giấy phép và thông báo trên phương tiện thông tin đại chúng."
+                    },
+                    "6.": {
+                        "tên": "Trường hợp đã bị thu hồi giấy phép theo quy định tại các Khoản 3, 4 và 5 Điều này, nếu có nhu cầu cấp lại giấy phép thì cơ quan chủ quản báo chí gửi văn bản đề nghị Bộ Thông tin và Truyền thông cấp lại giấy phép. Trường hợp có thay đổi nội dung so với giấy phép đã được cấp, cơ quan chủ quản báo chí gửi hồ sơ đề nghị Bộ Thông tin và Truyền thông cấp giấy phép theo quy định tại Khoản 1 Điều này."
+                    }
+                }
+            },
+            "điều 31": {
+                "tên": "Cấp giấy phép xuất bản thêm ấn phẩm báo chí, phụ trương; sản xuất thêm kênh phát thanh, kênh truyền hình; mở chuyên trang của báo điện tử",
+                "điểm": {}
+            },
+            "điều 32": {
+                "tên": "Xuất bản bản tin thông tấn",
+                "điểm": {}
+            },
+            "điều 33": {
+                "tên": "Biên tập kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền",
+                "điểm": {
+                    "1.": {
+                        "tên": "Việc cấp giấy phép biên tập kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền được thực hiện với từng kênh chương trình và phù hợp với quy hoạch phát triển và quản lý báo chí toàn quốc."
+                    },
+                    "2.": {
+                        "tên": "Điều kiện cấp giấy phép gồm:"
+                    },
+                    "3.": {
+                        "tên": "Trình tự, thủ tục cấp giấy phép biên tập kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền được thực hiện theo quy định sau đây:"
+                    },
+                    "4.": {
+                        "tên": "Thời gian hiệu lực của giấy phép biên tập kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền được quy định trong từng giấy phép."
+                    },
+                    "5.": {
+                        "tên": "Sau 03 tháng kể từ ngày giấy phép có hiệu lực, nếu cơ quan báo chí không thực hiện việc biên tập kênh chương trình nước ngoài thì giấy phép hết hiệu lực. Bộ Thông tin và Truyền thông ra quyết định thu hồi giấy phép."
+                    },
+                    "6.": {
+                        "tên": "Chậm nhất là 30 ngày trước ngày tạm ngừng biên tập kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền, cơ quan báo chí phải thông báo bằng văn bản cho Bộ Thông tin và Truyền thông; trường hợp tạm ngừng quá 03 tháng thì Bộ Thông tin và Truyền thông ra quyết định thu hồi giấy phép."
+                    },
+                    "7.": {
+                        "tên": "Chậm nhất là 30 ngày trước ngày chấm dứt biên tập kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền, cơ quan báo chí phải thông báo bằng văn bản cho Bộ Thông tin và Truyền thông để thu hồi giấy phép."
+                    },
+                    "8.": {
+                        "tên": "Trường hợp đã bị thu hồi giấy phép theo quy định tại các Khoản 5, 6 và 7 Điều này, nếu có nhu cầu hoạt động biên tập trở lại thì cơ quan báo chí gửi văn bản đề nghị Bộ Thông tin và Truyền thông cấp lại giấy phép. Trường hợp có thay đổi nội dung so với giấy phép đã được cấp, cơ quan báo chí gửi hồ sơ đề nghị Bộ Thông tin và Truyền thông cấp giấy phép theo quy định tại Khoản 3 Điều này."
+                    }
+                }
+            },
+            "điều 34": {
+                "tên": "à Điều 35 của Luật này.",
+                "điểm": {
+                    "11.": {
+                        "tên": "Việc xuất bản bản tin, đặc san của cơ quan đại diện nước ngoài, tổ chức nước ngoài thực hiện theo quy định tại Điều 34 và Điều 35 của Luật này."
+                    },
+                    "12.": {
+                        "tên": "Hồ sơ, trình tự, thủ tục quy định tại các Khoản 2, 4, 5, 6, 7 và 8 Điều này do Chính phủ quy định."
+                    },
+                    "1.": {
+                        "tên": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017."
+                    },
+                    "2.": {
+                        "tên": "Luật báo chí ngày 28 tháng 12 năm 1989 đã được sửa đổi, bổ sung một số Điều theo Luật số 12/1999/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+                    },
+                    "3.": {
+                        "tên": "Người đứng đầu cơ quan chủ quản báo chí, tổng giám đốc, phó tổng giám đốc, giám đốc, phó giám đốc, tổng biên tập, phó tổng biên tập cơ quan báo chí, nhà báo, tác giả tác phẩm báo chí và cá nhân khác có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, thu hồi thẻ nhà báo, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự."
+                    },
+                    "4.": {
+                        "tên": "Tổ chức, cá nhân có hành vi xâm phạm quyền sở hữu trí tuệ trong lĩnh vực báo chí thì bị xử lý theo quy định của pháp luật về sở hữu trí tuệ."
+                    },
+                    "5.": {
+                        "tên": "Trường hợp cơ quan báo chí, nhà báo, tổ chức, cá nhân tham gia hoạt động báo chí vi phạm gây thiệt hại đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác, ngoài việc bị xử lý theo quy định tại các Khoản 1, 2, 3 và 4 Điều này, còn phải công khai xin lỗi, cải chính trên báo chí, bồi thường thiệt hại theo quy định của pháp luật."
+                    }
+                }
+            },
+            "điều 35": {
+                "tên": "Xuất bản đặc san",
+                "điểm": {
+                    "1.": {
+                        "tên": "Điều kiện cấp giấy phép xuất bản đặc san gồm:"
+                    },
+                    "2.": {
+                        "tên": "Trình tự, thủ tục cấp giấy phép xuất bản đặc san được thực hiện theo quy định sau đây:"
+                    },
+                    "3.": {
+                        "tên": "Thời gian hiệu lực của giấy phép xuất bản đặc san được quy định trong từng giấy phép nhưng không quá 01 năm kể từ ngày cấp."
+                    },
+                    "4.": {
+                        "tên": "Chậm nhất là 15 ngày trước ngày tạm ngừng hoặc chấm dứt xuất bản đặc san, cơ quan, tổ chức phải thông báo bằng văn bản cho Bộ Thông tin và Truyền thông. Trường hợp chấm dứt xuất bản đặc san, Bộ Thông tin và Truyền thông ra quyết định thu hồi giấy phép."
+                    },
+                    "5.": {
+                        "tên": "Cơ quan, tổ chức có nhu cầu thay đổi một trong các nội dung ghi trong giấy phép xuất bản đặc san phải có văn bản đề nghị Bộ Thông tin và Truyền thông."
+                    }
+                }
+            },
+            "điều 36": {
+                "tên": "Trang thông tin điện tử tổng hợp",
+                "điểm": {
+                    "1.": {
+                        "tên": "Trang thông tin điện tử tổng hợp phải trích dẫn nguyên văn, chính xác nguồn tin báo chí và ghi rõ tên tác giả, tên cơ quan báo chí, thời gian đã đăng, phát thông tin đó."
+                    }
+                }
+            },
+            "điều 9": {
+                "tên": "ủa Luật này;",
+                "điểm": {}
+            },
+            "điều 37": {
+                "tên": "Liên kết trong hoạt động báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan báo chí được phép liên kết trong hoạt động báo chí với cơ quan báo chí khác, pháp nhân, cá nhân có đăng ký kinh doanh phù hợp với lĩnh vực liên kết theo quy định của pháp luật."
+                    },
+                    "2.": {
+                        "tên": "Cơ quan báo chí được phép liên kết trong các lĩnh vực sau đây:"
+                    },
+                    "3.": {
+                        "tên": "Các chương trình liên kết trên kênh phát thanh, kênh truyền hình phục vụ nhiệm vụ chính trị, thông tin, tuyên truyền thiết yếu theo quy định của Bộ Thông tin và Truyền thông và kênh thời sự - chính trị tổng hợp không vượt quá ba mươi phần trăm tổng thời lượng chương trình phát sóng lần thứ nhất của kênh này."
+                    },
+                    "4.": {
+                        "tên": "Việc liên kết các chương trình phát thanh, chương trình truyền hình giải trí, trò chơi truyền hình, truyền hình thực tế có bản quyền, kịch bản chương trình nước ngoài phải được Việt hóa, phù hợp với thuần phong mỹ tục Việt Nam."
+                    },
+                    "5.": {
+                        "tên": "Trường hợp cơ quan báo nói, báo hình có hoạt động liên kết sản xuất toàn bộ kênh phát thanh, kênh truyền hình thì số kênh liên kết không vượt quá ba mươi phần trăm tổng số kênh phát thanh, kênh truyền hình được cấp giấy phép sản xuất."
+                    },
+                    "6.": {
+                        "tên": "Nội dung các chương trình liên kết phải phù hợp với quy định của pháp luật Việt Nam."
+                    }
+                }
+            },
+            "điều 38": {
+                "tên": "Cung cấp thông tin cho báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Trong phạm vi quyền hạn, nhiệm vụ của mình, các cơ quan, tổ chức, người có trách nhiệm có quyền và nghĩa vụ cung cấp thông tin cho báo chí và chịu trách nhiệm trước pháp luật về nội dung thông tin đã cung cấp. Việc cung cấp thông tin cho báo chí có thể bằng văn bản, trên trang thông tin điện tử tổng hợp, họp báo, trả lời phỏng vấn và các hình thức khác. Cơ quan báo chí phải sử dụng chuẩn xác nội dung thông tin được cung cấp và phải nêu rõ xuất xứ nguồn tin."
+                    },
+                    "2.": {
+                        "tên": "Cơ quan, tổ chức, cá nhân có thẩm quyền có quyền từ chối cung cấp thông tin cho báo chí trong các trường hợp sau đây:"
+                    },
+                    "3.": {
+                        "tên": "Đối với vụ án đang trong quá trình Điều tra, truy tố mà chưa được xét xử, các vụ việc tiêu cực hoặc có dấu hiệu vi phạm pháp luật nhưng chưa có kết luận của cơ quan nhà nước có thẩm quyền, báo chí có quyền thông tin theo các nguồn tài liệu của mình và chịu trách nhiệm trước pháp luật về nội dung thông tin."
+                    },
+                    "4.": {
+                        "tên": "Cơ quan báo chí và nhà báo có quyền và nghĩa vụ không Tiết lộ người cung cấp thông tin, trừ trường hợp có yêu cầu bằng văn bản của Viện trưởng Viện kiểm sát nhân dân, Chánh án Tòa án nhân dân cấp tỉnh và tương đương trở lên cần thiết cho việc Điều tra, truy tố, xét xử tội phạm rất nghiêm trọng, đặc biệt nghiêm trọng."
+                    },
+                    "5.": {
+                        "tên": "Cơ quan hành chính nhà nước có trách nhiệm cử người phát ngôn, thực hiện phát ngôn và cung cấp thông tin cho báo chí định kỳ và đột xuất, bất thường."
+                    }
+                }
+            },
+            "điều 39": {
+                "tên": "Trả lời trên báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Người đứng đầu cơ quan báo chí có quyền yêu cầu cơ quan, tổ chức, cá nhân có thẩm quyền trả lời vấn đề mà công dân nêu ra trên báo chí. Trong thời hạn 30 ngày kể từ ngày nhận được yêu cầu của người đứng đầu cơ quan báo chí, cơ quan, tổ chức, cá nhân có trách nhiệm trả lời trên báo chí."
+                    },
+                    "2.": {
+                        "tên": "Trong thời hạn 30 ngày kể từ ngày nhận được ý kiến, kiến nghị, phê bình, khiếu nại của tổ chức, công dân và tố cáo của công dân do cơ quan báo chí chuyển đến, người đứng đầu cơ quan, tổ chức có trách nhiệm thông báo cho cơ quan báo chí biết biện pháp giải quyết."
+                    },
+                    "3.": {
+                        "tên": "Trong thời hạn 10 ngày đối với báo in ra hằng ngày và báo nói, báo hình, báo điện tử, 15 ngày đối với báo tuần, trên số ra gần nhất đối với tạp chí in kể từ khi nhận được văn bản trả lời của cơ quan, tổ chức có thẩm quyền giải quyết khiếu nại, tố cáo hoặc văn bản trả lời kiến nghị, phê bình của cơ quan, tổ chức, cá nhân đối với vấn đề mà báo chí nêu hoặc tiếp nhận, cơ quan báo chí phải thông báo cho cơ quan, tổ chức, công dân có ý kiến, kiến nghị, phê bình, khiếu nại, tố cáo hoặc đăng, phát trên báo chí của mình."
+                    },
+                    "4.": {
+                        "tên": "Cơ quan, tổ chức, công dân có quyền yêu cầu cơ quan báo chí trả lời vấn đề mà cơ quan báo chí đã thông tin; cơ quan báo chí có trách nhiệm trả lời trong thời hạn 15 ngày kể từ ngày nhận được yêu cầu của cơ quan, tổ chức, công dân."
+                    }
+                }
+            },
+            "điều 40": {
+                "tên": "Trả lời phỏng vấn trên báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Người phỏng vấn phải thông báo trước cho người được phỏng vấn biết Mục đích, yêu cầu và câu hỏi phỏng vấn; trường hợp cần phỏng vấn trực tiếp, không có sự thông báo trước thì phải được người trả lời phỏng vấn đồng ý."
+                    },
+                    "2.": {
+                        "tên": "Sau khi phỏng vấn, trên cơ sở thông tin, tài liệu của người trả lời cung cấp, người phỏng vấn có quyền thể hiện bằng các hình thức phù hợp. Người phỏng vấn phải thể hiện chính xác, trung thực nội dung trả lời của người được phỏng vấn."
+                    },
+                    "3.": {
+                        "tên": "Nhà báo không được dùng những ý kiến phát biểu tại hội nghị, hội thảo, các cuộc gặp gỡ, trao đổi, nói chuyện có nhà báo tham dự để chuyển thành bài phỏng vấn nếu không được sự đồng ý của người phát biểu."
+                    },
+                    "4.": {
+                        "tên": "Cơ quan báo chí, người phỏng vấn và người trả lời phỏng vấn phải chịu trách nhiệm về nội dung thông tin đăng, phát trên báo chí."
+                    }
+                }
+            },
+            "điều 41": {
+                "tên": "Họp báo",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan, tổ chức, công dân Việt Nam có quyền tổ chức họp báo để công bố, tuyên bố, giải thích, trả lời các nội dung có liên quan tới nhiệm vụ, quyền hạn hoặc lợi ích của cơ quan, tổ chức, cá nhân đó."
+                    }
+                }
+            },
+            "điều 56": {
+                "tên": "Hoạt động báo chí của báo chí nước ngoài, cơ quan đại diện nước ngoài, tổ chức nước ngoài tại Việt Nam",
+                "điểm": {
+                    "1.": {
+                        "tên": "Mọi hoạt động báo chí và hoạt động liên quan đến báo chí của cơ quan thông tấn, phát thanh, truyền hình, báo in, báo điện tử của nước ngoài (gọi chung là báo chí nước ngoài); của cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế liên chính phủ và các cơ quan khác của nước ngoài được ủy quyền thực hiện chức năng lãnh sự ở Việt Nam (gọi chung là cơ quan đại diện nước ngoài) và cơ quan đại diện của tổ chức phi chính phủ và các tổ chức nước ngoài khác tại Việt Nam (gọi chung là tổ chức nước ngoài) chỉ được phép tiến hành sau khi có sự chấp thuận của cơ quan có thẩm quyền quy định tại Luật này và phải tuân thủ quy định của pháp luật Việt Nam."
+                    },
+                    "2.": {
+                        "tên": "Phóng viên nước ngoài không thường trú có nhu cầu hoạt động báo chí tại Việt Nam phải gửi một bộ hồ sơ đề nghị chấp thuận trực tiếp, qua hệ thống bưu chính, fax hoặc thư điện tử đến Bộ Ngoại giao, cơ quan đại diện ngoại giao, cơ quan lãnh sự hoặc các cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của Việt Nam ở nước ngoài (sau đây gọi chung là cơ quan đại diện Việt Nam ở nước ngoài)."
+                    },
+                    "3.": {
+                        "tên": "Trường hợp phóng viên nước ngoài đi theo đoàn khách nước ngoài thực hiện theo quy định sau đây:"
+                    },
+                    "4.": {
+                        "tên": "Cơ quan báo chí nước ngoài có nhu cầu lập văn phòng thường trú tại Việt Nam gửi trực tiếp hoặc qua hệ thống bưu chính một bộ hồ sơ đề nghị lập văn phòng thường trú đến Bộ Ngoại giao hoặc cơ quan đại diện Việt Nam ở nước ngoài."
+                    },
+                    "5.": {
+                        "tên": "Cơ quan báo chí nước ngoài có nhu cầu cử phóng viên thường trú gửi một bộ hồ sơ đề nghị chấp thuận trực tiếp hoặc qua hệ thống bưu chính đến Bộ Ngoại giao hoặc cơ quan đại diện Việt Nam ở nước ngoài."
+                    },
+                    "6.": {
+                        "tên": "Phóng viên thường trú được Bộ Ngoại giao cấp thẻ phóng viên nước ngoài, có giá trị không quá 12 tháng, phù hợp với thời hạn thị thực nhập cảnh, xuất cảnh của phóng viên."
+                    },
+                    "7.": {
+                        "tên": "Hoạt động thông tin, báo chí của phóng viên thường trú thực hiện theo quy định sau đây:"
+                    },
+                    "8.": {
+                        "tên": "Văn phòng thường trú được thuê trợ lý báo chí, thuê cộng tác viên để hỗ trợ các hoạt động của văn phòng thường trú, phóng viên thường trú."
+                    },
+                    "9.": {
+                        "tên": "Việc nhập khẩu, xuất khẩu phương tiện, trang thiết bị của báo chí nước ngoài thực hiện theo quy định sau đây:"
+                    },
+                    "10.": {
+                        "tên": "Việc họp báo được thực hiện theo quy định sau đây:"
+                    }
+                }
+            },
+            "điều 42": {
+                "tên": "ủa Luật này.",
+                "điểm": {
+                    "2.": {
+                        "tên": "Cơ quan báo chí phải đăng, phát ý kiến phản hồi của cơ quan, tổ chức, cá nhân. Thời Điểm đăng, phát thực hiện theo quy định về đăng, phát cải chính tại Khoản 5 Điều 42 của Luật này."
+                    },
+                    "3.": {
+                        "tên": "Cơ quan báo chí có quyền không đăng, phát ý kiến phản hồi của cơ quan, tổ chức, cá nhân nếu ý kiến đó vi phạm pháp luật, xúc phạm đến uy tín của cơ quan báo chí, danh dự, nhân phẩm của tác giả tác phẩm báo chí, đồng thời thông báo bằng văn bản và nêu rõ lý do để cơ quan, tổ chức, cá nhân biết."
+                    },
+                    "4.": {
+                        "tên": "Khi đăng, phát ý kiến phản hồi, cơ quan báo chí phải thể hiện đầy đủ các nội dung sau đây:"
+                    }
+                }
+            },
+            "điều 52": {
+                "tên": "Chế độ lưu chiểu báo chí, nộp ấn phẩm báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan báo chí phải thực hiện chế độ lưu chiểu theo quy định sau đây:"
+                    },
+                    "2.": {
+                        "tên": "Khi nộp báo in lưu chiểu, cơ quan báo chí phải ghi rõ báo in nộp lưu chiểu, số lượng phát hành, ngày, giờ nộp lưu chiểu, chữ ký của người đứng đầu cơ quan báo chí hoặc người được ủy quyền."
+                    },
+                    "3.": {
+                        "tên": "Cơ quan báo in phải nộp năm bản ấn phẩm báo in để lưu giữ tại Thư viện Quốc gia Việt Nam."
+                    },
+                    "4.": {
+                        "tên": "Bộ Thông tin và Truyền thông thực hiện việc lưu chiểu điện tử đối với báo nói, báo hình và báo điện tử độc lập với cơ quan báo chí theo quy định của Chính phủ; thực hiện việc đo kiểm và công bố số liệu liên quan đến hoạt động báo chí."
+                    }
+                }
+            },
+            "điều 43": {
+                "tên": "Phản hồi thông tin",
+                "điểm": {
+                    "1.": {
+                        "tên": "Khi cơ quan, tổ chức, cá nhân có căn cứ cho rằng cơ quan báo chí thông tin sai sự thật, xuyên tạc, vu khống, xúc phạm uy tín, danh dự, nhân phẩm của mình hoặc gây hiểu lầm làm ảnh hưởng đến uy tín, danh dự, nhân phẩm của mình thì có quyền nêu ý kiến phản hồi bằng văn bản đến cơ quan báo chí, cơ quan chủ quản báo chí, cơ quan quản lý nhà nước về báo chí hoặc khởi kiện tại Tòa án."
+                    }
+                }
+            },
+            "điều 44": {
+                "tên": "Quảng cáo trên báo chí",
+                "điểm": {}
+            },
+            "điều 45": {
+                "tên": "Quyền tác giả trong lĩnh vực báo chí",
+                "điểm": {}
+            },
+            "điều 46": {
+                "tên": "Các thông tin phải ghi, thể hiện trên báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Trên trang nhất, bìa một đối với báo in, trang chủ, các trang đối với báo điện tử phải có các nội dung sau đây:"
+                    },
+                    "2.": {
+                        "tên": "Dưới chân trang cuối, bìa cuối đối với báo in, trang chủ đối với báo điện tử phải có các nội dung sau đây:"
+                    },
+                    "3.": {
+                        "tên": "Báo nói, báo hình phải thể hiện biểu tượng, nhạc hiệu."
+                    }
+                }
+            },
+            "điều 47": {
+                "tên": "Bảo vệ nội dung các chương trình phát thanh, chương trình truyền hình, nội dung báo điện tử",
+                "điểm": {}
+            },
+            "điều 48": {
+                "tên": "In báo chí",
+                "điểm": {}
+            },
+            "điều 49": {
+                "tên": "Phát hành báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan báo chí thực hiện phát hành báo chí theo đúng quy định ghi trong giấy phép hoạt động báo chí."
+                    },
+                    "2.": {
+                        "tên": "Ngành thông tin và truyền thông có trách nhiệm phát hành các loại báo chí công ích qua mạng bưu chính công cộng theo quy định của Chính phủ và phát hành các loại báo chí khác theo hợp đồng ký kết với cơ quan báo chí."
+                    },
+                    "3.": {
+                        "tên": "Cơ quan chủ quản báo chí, cơ quan báo chí, tổ chức, cá nhân tham gia phát hành báo chí, tổ chức được phép xuất khẩu, nhập khẩu báo chí có trách nhiệm thực hiện quyết định thu hồi ấn phẩm báo chí của cơ quan nhà nước có thẩm quyền; Sở Thông tin và Truyền thông, cơ quan Công an cấp tỉnh có trách nhiệm kiểm tra việc thực hiện."
+                    },
+                    "4.": {
+                        "tên": "Bộ Thông tin và Truyền thông quy định giá cước tối đa với dịch vụ phát hành báo chí công ích qua mạng bưu chính công cộng."
+                    }
+                }
+            },
+            "điều 50": {
+                "tên": "Đăng ký cung cấp kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền",
+                "điểm": {
+                    "1.": {
+                        "tên": "Hãng truyền hình nước ngoài cung cấp kênh chương trình nước ngoài vào Việt Nam có thu phí bản quyền nội dung phải thông qua đại lý được ủy quyền tại Việt Nam để thực hiện việc đăng ký cung cấp kênh chương trình và thực hiện nghĩa vụ tài chính với Nhà nước Việt Nam."
+                    },
+                    "2.": {
+                        "tên": "Hãng truyền hình nước ngoài phải quy định rõ phạm vi ủy quyền cho mỗi đại lý khi đồng thời thực hiện ủy quyền cho hai đại lý trở lên."
+                    },
+                    "3.": {
+                        "tên": "Đối với kênh chương trình nước ngoài không có thu phí bản quyền nội dung, hãng truyền hình nước ngoài chỉ thực hiện thủ tục biên tập, biên dịch theo quy định, không phải thông qua đại lý được ủy quyền tại Việt Nam."
+                    },
+                    "4.": {
+                        "tên": "Đại lý được ủy quyền là doanh nghiệp Việt Nam và được hãng truyền hình nước ngoài ủy quyền làm đại lý cung cấp kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền tại Việt Nam."
+                    },
+                    "5.": {
+                        "tên": "Đại lý được ủy quyền có trách nhiệm đăng ký cung cấp kênh chương trình nước ngoài trên dịch vụ phát thanh, truyền hình trả tiền tại Việt Nam với Bộ Thông tin và Truyền thông."
+                    }
+                }
+            },
+            "điều 51": {
+                "tên": "Cung cấp dịch vụ truyền dẫn, phát sóng",
+                "điểm": {
+                    "1.": {
+                        "tên": "Đơn vị cung cấp dịch vụ truyền dẫn, phát sóng phải bảo đảm truyền dẫn, phát sóng nguyên vẹn nội dung thông tin của cơ quan báo chí."
+                    },
+                    "2.": {
+                        "tên": "Đơn vị cung cấp dịch vụ truyền dẫn, phát sóng phát thanh, truyền hình quảng bá có trách nhiệm bảo đảm thời gian, thời lượng, phạm vi phát sóng; chất lượng truyền dẫn, phát sóng các kênh phát thanh, kênh truyền hình phục vụ nhiệm vụ chính trị, thông tin, tuyên truyền thiết yếu của quốc gia, địa phương và bảo đảm các nguyên tắc sau đây:"
+                    },
+                    "3.": {
+                        "tên": "Điều kiện cấp giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền gồm:"
+                    },
+                    "4.": {
+                        "tên": "Doanh nghiệp có nhu cầu cung cấp dịch vụ phát thanh, truyền hình trả tiền gửi hồ sơ đề nghị Bộ Thông tin và Truyền thông cấp giấy phép."
+                    },
+                    "5.": {
+                        "tên": "Thời gian hiệu lực của giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền được quy định trong từng giấy phép."
+                    },
+                    "6.": {
+                        "tên": "Đơn vị cung cấp dịch vụ truyền dẫn, phát sóng phát thanh, truyền hình trả tiền được áp dụng các biện pháp kỹ thuật bảo vệ nội dung các chương trình phát thanh, truyền hình để thu phí; nộp phí quyền cung cấp dịch vụ theo quy định của pháp luật."
+                    }
+                }
+            },
+            "điều 53": {
+                "tên": "Kiểm tra báo chí lưu chiểu",
+                "điểm": {
+                    "1.": {
+                        "tên": "Bộ Thông tin và Truyền thông tổ chức kiểm tra báo chí lưu chiểu. Ủy ban nhân dân cấp tỉnh tổ chức kiểm tra báo chí lưu chiểu tại địa phương."
+                    }
+                }
+            },
+            "điều 59": {
+                "tên": "ủa Luật này.",
+                "điểm": {
+                    "2.": {
+                        "tên": "Bộ Tài chính quy định chế độ thù lao cho người đọc, nghe, xem để kiểm tra báo chí lưu chiểu."
+                    }
+                }
+            },
+            "điều 54": {
+                "tên": "Xuất khẩu, nhập khẩu báo in",
+                "điểm": {
+                    "1.": {
+                        "tên": "Báo in xuất bản hợp pháp tại Việt Nam được phép xuất khẩu ra nước ngoài."
+                    },
+                    "2.": {
+                        "tên": "Việc nhập khẩu báo in được thực hiện thông qua cơ sở xuất khẩu, nhập khẩu báo chí do Bộ Thông tin và Truyền thông cấp giấy phép."
+                    },
+                    "3.": {
+                        "tên": "Cơ sở nhập khẩu báo in phải đăng ký danh Mục báo chí nhập khẩu với Bộ Thông tin và Truyền thông trước khi nhập khẩu."
+                    },
+                    "4.": {
+                        "tên": "Người đứng đầu cơ sở nhập khẩu báo in phải tổ chức kiểm tra nội dung báo chí nhập khẩu trước khi phát hành và chịu trách nhiệm trước pháp luật về nội dung báo in mà mình nhập khẩu."
+                    }
+                }
+            },
+            "điều 55": {
+                "tên": "Hoạt động hợp tác của cơ quan báo chí Việt Nam với nước ngoài",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan báo chí Việt Nam có các quyền sau đây:"
+                    },
+                    "2.": {
+                        "tên": "Cơ quan báo chí thực hiện các quyền quy định tại Khoản 1 Điều này phải bảo đảm các quy định sau đây:"
+                    }
+                }
+            }
+        }
+    },
+    "chương v": {
+        "tên": "KHEN THƯỞNG, THANH TRA VÀ XỬ LÝ VI PHẠM TRONG HOẠT ĐỘNG BÁO CHÍ",
+        "điều": {
+            "điều 57": {
+                "tên": "Khen thưởng trong hoạt động báo chí",
+                "điểm": {}
+            },
+            "điều 58": {
+                "tên": "Thanh tra chuyên ngành báo chí",
+                "điểm": {}
+            },
+            "điều 59": {
+                "tên": "Xử lý vi phạm trong lĩnh vực báo chí",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan báo chí, tổ chức tham gia hoạt động báo chí vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị cảnh cáo, phạt tiền và bị áp dụng biện pháp thu hồi, tịch thu ấn phẩm, băng đĩa ghi âm, ghi hình; đình bản tạm thời hoặc thu hồi giấy phép trong hoạt động báo chí theo quy định tại Khoản 2 Điều này."
+                    }
+                }
+            },
+            "điều 9": {
+                "tên": "ủa Luật này gây ảnh hưởng rất nghiêm trọng, đặc biệt nghiêm trọng.",
+                "điểm": {
+                    "2.": {
+                        "tên": "Luật báo chí ngày 28 tháng 12 năm 1989 đã được sửa đổi, bổ sung một số Điều theo Luật số 12/1999/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+                    },
+                    "3.": {
+                        "tên": "Người đứng đầu cơ quan chủ quản báo chí, tổng giám đốc, phó tổng giám đốc, giám đốc, phó giám đốc, tổng biên tập, phó tổng biên tập cơ quan báo chí, nhà báo, tác giả tác phẩm báo chí và cá nhân khác có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, thu hồi thẻ nhà báo, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự."
+                    },
+                    "4.": {
+                        "tên": "Tổ chức, cá nhân có hành vi xâm phạm quyền sở hữu trí tuệ trong lĩnh vực báo chí thì bị xử lý theo quy định của pháp luật về sở hữu trí tuệ."
+                    },
+                    "5.": {
+                        "tên": "Trường hợp cơ quan báo chí, nhà báo, tổ chức, cá nhân tham gia hoạt động báo chí vi phạm gây thiệt hại đến quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác, ngoài việc bị xử lý theo quy định tại các Khoản 1, 2, 3 và 4 Điều này, còn phải công khai xin lỗi, cải chính trên báo chí, bồi thường thiệt hại theo quy định của pháp luật."
+                    },
+                    "1.": {
+                        "tên": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017."
+                    }
+                }
+            }
+        }
+    },
+    "chương vi": {
+        "tên": "ĐIỀU KHOẢN THI HÀNH",
+        "điều": {
+            "điều 60": {
+                "tên": "Hiệu lực thi hành",
+                "điểm": {
+                    "1.": {
+                        "tên": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2017."
+                    },
+                    "2.": {
+                        "tên": "Luật báo chí ngày 28 tháng 12 năm 1989 đã được sửa đổi, bổ sung một số Điều theo Luật số 12/1999/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+                    }
+                }
+            },
+            "điều 61": {
+                "tên": "Quy định chi Tiết",
+                "điểm": {}
+            }
+        }
+    }
+}
