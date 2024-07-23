@@ -91,9 +91,11 @@ By following these steps, you can systematically select a research topic that is
 ## :newspaper: SOTA Papers
 [1] R. Bommasani et al., “On the Opportunities and Risks of Foundation Models.” arXiv, Jul. 12, 2022. doi: 10.48550/arXiv.2108.07258. [Access here](http://arxiv.org/abs/2108.07258)
 
-[2] A. Vaswani et al., “Attention is All you Need,” in Advances in Neural Information Processing Systems, Curran Associates, Inc., 2017. Accessed: Jul. 17, 2024. [Online]. Available: (https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+[2] J. Yang et al., “Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond,” ACM Trans. Knowl. Discov. Data, vol. 18, no. 6, p. 160:1-160:32, Apr. 2024, doi: 10.1145/3649506. [Access here](https://dl.acm.org/doi/full/10.1145/3649506)
 
-[3] J. Yang et al., “Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond,” ACM Trans. Knowl. Discov. Data, vol. 18, no. 6, p. 160:1-160:32, Apr. 2024, doi: 10.1145/3649506. [Access here](https://dl.acm.org/doi/full/10.1145/3649506)
+[3] A. Vaswani et al., “Attention is All you Need,” in Advances in Neural Information Processing Systems, Curran Associates, Inc., 2017. Accessed: Jul. 17, 2024. [Online]. Available: (https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+
+[4] Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 4171-4186). Minneapolis, Minnesota: Association for Computational Linguistics.(https://arxiv.org/abs/1810.04805)
 
 
 ## 📚 Books
