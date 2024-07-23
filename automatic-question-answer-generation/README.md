@@ -20,6 +20,72 @@
 10. **Ứng dụng RAG và GPT-3.5 trong tạo câu hỏi và trả lời cho hệ thống hỗ trợ học tập**
 
 ## Dàn ý để viết paper:
+### 1. **Introduction**
+   - **Background and Motivation**:
+     - Tổng quan về hệ thống hỏi đáp và tầm quan trọng của nó trong các ứng dụng hiện nay.
+     - Giới thiệu về RAG (Retrieval-Augmented Generation) và GPT-3.5.
+     - Giới thiệu về Gemini và vai trò của nó trong hệ thống.
+   - **Problem Statement**:
+     - Mô tả vấn đề cần giải quyết và những thách thức hiện tại trong việc tạo câu hỏi và trả lời tự động.
+   - **Objectives**:
+     - Mục tiêu của nghiên cứu và những gì nghiên cứu này hy vọng đạt được.
+
+### 2. **Related Work**
+   - **Existing Approaches**:
+     - Tóm tắt các phương pháp và nghiên cứu liên quan đến việc tạo câu hỏi và trả lời tự động.
+   - **Comparative Analysis**:
+     - So sánh các phương pháp hiện có với RAG và GPT-3.5.
+   - **Gaps and Opportunities**:
+     - Xác định các lỗ hổng trong nghiên cứu hiện tại và lý do chọn RAG và GPT-3.5.
+
+### 3. **Methodology**
+   - **System Architecture**:
+     - Mô tả kiến trúc tổng thể của hệ thống đề xuất.
+   - **RAG Model**:
+     - Giải thích về mô hình RAG và cách nó được tích hợp vào hệ thống.
+   - **GPT-3.5 Integration**:
+     - Cách sử dụng GPT-3.5 để tạo câu hỏi và trả lời.
+   - **Gemini Framework**:
+     - Giới thiệu và giải thích về khung làm việc Gemini và vai trò của nó trong hệ thống.
+   - **Data Collection and Preparation**:
+     - Chi tiết về quá trình thu thập và chuẩn bị dữ liệu.
+
+### 4. **Experiments and Results**
+   - **Experimental Setup**:
+     - Mô tả môi trường thử nghiệm và cấu hình hệ thống.
+   - **Evaluation Metrics**:
+     - Các tiêu chí đánh giá được sử dụng để đo lường hiệu quả của hệ thống.
+   - **Results and Analysis**:
+     - Trình bày kết quả thực nghiệm và phân tích chi tiết.
+   - **Comparison with Baseline Models**:
+     - So sánh hiệu suất của hệ thống đề xuất với các mô hình cơ bản khác.
+
+### 5. **Discussion**
+   - **Insights**:
+     - Các phát hiện chính từ kết quả thực nghiệm.
+   - **Strengths and Limitations**:
+     - Ưu điểm và hạn chế của hệ thống đề xuất.
+   - **Practical Implications**:
+     - Ý nghĩa thực tiễn của nghiên cứu và ứng dụng trong thực tế.
+
+### 6. **Conclusion and Future Work**
+   - **Summary**:
+     - Tóm tắt lại những điểm chính của nghiên cứu.
+   - **Contributions**:
+     - Đóng góp của nghiên cứu này cho lĩnh vực.
+   - **Future Directions**:
+     - Đề xuất hướng nghiên cứu và cải tiến trong tương lai.
+
+### 7. **References**
+   - **Bibliography**:
+     - Danh sách các tài liệu tham khảo đã được trích dẫn trong bài báo.
+
+### 8. **Appendices** (nếu cần thiết)
+   - **Additional Material**:
+     - Các tài liệu bổ sung, mã nguồn, hoặc thông tin chi tiết khác không thể đưa vào phần chính của bài báo.
+
+Dàn ý này sẽ giúp bạn tổ chức bài báo hội nghị một cách logic và chặt chẽ, đảm bảo bao quát đầy đủ các khía cạnh của nghiên cứu.
+
 - tiêu đề 
 - cơ sở lý thuyết
    - aqg
