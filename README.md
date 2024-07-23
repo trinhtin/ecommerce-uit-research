@@ -97,6 +97,8 @@ By following these steps, you can systematically select a research topic that is
 
 [4] Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 4171-4186). Minneapolis, Minnesota: Association for Computational Linguistics.(https://arxiv.org/abs/1810.04805)
 
+[5] Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving Language Understanding by Generative Pre-Training. OpenAI. 
+(https://www.mikecaptain.com/resources/pdf/GPT-1.pdf)
 
 ## 📚 Books
 Dive deep into the foundational theories and practical applications of AI and LLMs with these essential readings:
