@@ -7,6 +7,18 @@
 
 [4] S. Patil, Question Generation using transformers. (Jul. 22, 2024). Jupyter Notebook. Accessed: Jul. 23, 2024. [Online]. Available: https://github.com/patil-suraj/question_generation
 
+## Gợi ý một số cách đặt tên
+1. **Tích hợp RAG và GPT-3.5 trong việc tạo câu hỏi và trả lời: Một nghiên cứu thực nghiệm**
+2. **Phát triển hệ thống hỏi đáp thông minh sử dụng RAG và GPT-3.5: Thực tiễn và thách thức**
+3. **Ứng dụng mô hình RAG và GPT-3.5 trong giáo dục: Tạo câu hỏi và trả lời tự động**
+4. **Nâng cao hiệu quả hỏi đáp với RAG và GPT-3.5: Kỹ thuật và kết quả**
+5. **Sự kết hợp giữa RAG và GPT-3.5: Phương pháp tạo câu hỏi và trả lời thông minh**
+6. **Phân tích hiệu suất của RAG và GPT-3.5 trong việc tạo hỏi đáp tự động**
+7. **Khám phá tiềm năng của RAG và GPT-3.5 trong hệ thống hỏi đáp**
+8. **Tích hợp RAG và GPT-3.5 cho các ứng dụng hỏi đáp: Một hướng dẫn toàn diện**
+9. **Cải thiện trải nghiệm người dùng trong các hệ thống hỏi đáp bằng RAG và GPT-3.5**
+10. **Ứng dụng RAG và GPT-3.5 trong tạo câu hỏi và trả lời cho hệ thống hỗ trợ học tập**
+
 ## Dàn ý để viết paper:
 - tiêu đề 
 - cơ sở lý thuyết
