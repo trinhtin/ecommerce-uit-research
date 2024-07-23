@@ -1,4 +1,13 @@
-Dàn ý để viết paper:
+## Một số references quan trọng cho các em
+[1] L. Phan, H. Tran, H. Nguyen, and T. H. Trinh, “ViT5: Pretrained Text-to-Text Transformer for Vietnamese Language Generation,” in Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Student Research Workshop, D. Ippolito, L. H. Li, M. L. Pacheco, D. Chen, and N. Xue, Eds., Hybrid: Seattle, Washington + Online: Association for Computational Linguistics, Jul. 2022, pp. 136–142. doi: 10.18653/v1/2022.naacl-srw.18.Access here: (https://aclanthology.org/2022.naacl-srw.18/)
+
+[2] A. Ushio, F. Alva-Manchego, and J. Camacho-Collados, “A Practical Toolkit for Multilingual Question and Answer Generation,” in Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations), D. Bollegala, R. Huang, and A. Ritter, Eds., Toronto, Canada: Association for Computational Linguistics, Jul. 2023, pp. 86–94. doi: 10.18653/v1/2023.acl-demo.8. Access here: (https://aclanthology.org/2023.acl-demo.8/)
+
+[3] “mrm8488/t5-base-finetuned-question-generation-ap · Hugging Face.” Accessed: Jul. 23, 2024. [Online]. Available: https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap
+
+[4] S. Patil, Question Generation using transformers. (Jul. 22, 2024). Jupyter Notebook. Accessed: Jul. 23, 2024. [Online]. Available: https://github.com/patil-suraj/question_generation
+
+## Dàn ý để viết paper:
 - tiêu đề 
 - cơ sở lý thuyết
    - aqg
