@@ -1,0 +1,440 @@
+{
+    "chương 1": {
+        "tên": "NHỮNG QUY ĐỊNH CHUNG",
+        "điều": {
+            "điều 1": {
+                "tên": "Phạm vi điều chỉnh",
+                "điểm": {}
+            },
+            "điều 2": {
+                "tên": "Đối tượng áp dụng",
+                "điểm": {}
+            },
+            "điều 3": {
+                "tên": "Giải thích từ ngữ",
+                "điểm": {
+                    "1.": {
+                        "tên": "An ninh quốc gia là sự ổn định, phát triển bền vững của chế độ xã hội chủ nghĩa và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, sự bất khả xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc."
+                    },
+                    "2.": {
+                        "tên": "Bảo vệ an ninh quốc gia là phòng ngừa, phát hiện, ngăn chặn, đấu tranh làm thất bại các hoạt động xâm phạm an ninh quốc gia."
+                    },
+                    "3.": {
+                        "tên": "Hoạt động xâm phạm an ninh quốc gia là những hành vi xâm phạm chế độ chính trị, chế độ kinh tế, nền văn hoá, an ninh, quốc phòng, đối ngoại, độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+                    },
+                    "4.": {
+                        "tên": "Nguy cơ đe doạ an ninh quốc gia là những nhân tố bên trong, bên ngoài lãnh thổ Việt Nam có khả năng thực tế gây nguy hại cho an ninh quốc gia của nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+                    },
+                    "5.": {
+                        "tên": "Cơ quan chuyên trách bảo vệ an ninh quốc gia là cơ quan chỉ đạo, chỉ huy và đơn vị nghiệp vụ thuộc lực lượng vũ trang nhân dân được giao nhiệm vụ chuyên trách làm tham mưu, tổ chức, trực tiếp thực hiện nhiệm vụ bảo vệ an ninh quốc gia."
+                    },
+                    "6.": {
+                        "tên": "Cán bộ chuyên trách bảo vệ an ninh quốc gia là sĩ quan, hạ sĩ quan của cơ quan chuyên trách bảo vệ an ninh quốc gia được giao nhiệm vụ chuyên trách làm tham mưu, tổ chức, trực tiếp thực hiện nhiệm vụ bảo vệ an ninh quốc gia."
+                    },
+                    "7.": {
+                        "tên": "Biện pháp nghiệp vụ là biện pháp công tác của cơ quan chuyên trách bảo vệ an ninh quốc gia được thực hiện theo quy định của pháp luật."
+                    },
+                    "8.": {
+                        "tên": "Mục tiêu quan trọng về an ninh quốc gia là những đối tượng, địa điểm, công trình, cơ sở về chính trị, an ninh, quốc phòng, kinh tế, khoa học - kỹ thuật, văn hoá, xã hội thuộc danh mục cần được bảo vệ do pháp luật quy định."
+                    },
+                    "9.": {
+                        "tên": "Nền an ninh nhân dân là sức mạnh về tinh thần, vật chất, sự đoàn kết và truyền thống dựng nước, giữ nước của toàn dân tộc được huy động vào sự nghiệp bảo vệ an ninh quốc gia, trong đó lực lượng chuyên trách bảo vệ an ninh quốc gia làm nòng cốt."
+                    },
+                    "10.": {
+                        "tên": "Thế trận an ninh nhân dân là việc tổ chức, bố trí lực lượng bảo vệ an ninh quốc gia và các nguồn lực cần thiết để chủ động bảo vệ an ninh quốc gia."
+                    }
+                }
+            },
+            "điều 4": {
+                "tên": "Chính sách an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện chính sách hòa bình, hữu nghị, mở rộng giao lưu và hợp tác với tất cả các nước trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ của nhau, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi."
+                    },
+                    "2.": {
+                        "tên": "Nhà nước có chính sách xây dựng khối đại đoàn kết toàn dân tộc; phát triển kinh tế, văn hoá, xã hội, khoa học, công nghệ, an ninh, quốc phòng, đối ngoại vững mạnh, giữ vững ổn định chính trị để bảo đảm an ninh quốc gia."
+                    }
+                }
+            },
+            "điều 5": {
+                "tên": "Nguyên tắc hoạt động bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Tuân thủ Hiến pháp, pháp luật, bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân."
+                    },
+                    "2.": {
+                        "tên": "Đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Nhà nước; huy động sức mạnh tổng hợp của hệ thống chính trị và toàn dân tộc, lực lượng chuyên trách bảo vệ an ninh quốc gia làm nòng cốt."
+                    },
+                    "3.": {
+                        "tên": "Kết hợp chặt chẽ giữa nhiệm vụ bảo vệ an ninh quốc gia với nhiệm vụ xây dựng, phát triển kinh tế, văn hoá, xã hội; phối hợp có hiệu quả hoạt động an ninh, quốc phòng và đối ngoại."
+                    },
+                    "4.": {
+                        "tên": "Chủ động phòng ngừa, chủ động đấu tranh làm thất bại mọi âm mưu và hoạt động xâm phạm an ninh quốc gia."
+                    }
+                }
+            },
+            "điều 6": {
+                "tên": "Xây dựng lực lượng bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Nhà nước xây dựng lực lượng chuyên trách bảo vệ an ninh quốc gia cách mạng, chính quy, tinh nhuệ, từng bước hiện đại làm nòng cốt thực hiện nhiệm vụ bảo vệ an ninh quốc gia."
+                    },
+                    "2.": {
+                        "tên": "Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm xây dựng lực lượng công an xã, dân quân tự vệ, bảo vệ cơ quan, doanh nghiệp, bảo vệ dân phố, dân phòng tham gia hoạt động bảo vệ an ninh quốc gia theo quy định của pháp luật."
+                    }
+                }
+            },
+            "điều 7": {
+                "tên": "Bảo đảm điều kiện cho hoạt động bảo vệ an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 8": {
+                "tên": "Trách nhiệm, nghĩa vụ bảo vệ an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 9": {
+                "tên": "Chế độ, chính sách đối với cơ quan, tổ chức, cá nhân trong hoạt động bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Nhà nước bảo vệ, giữ bí mật cho cán bộ, chiến sĩ thuộc lực lượng chuyên trách bảo vệ an ninh quốc gia và cơ quan, tổ chức, cá nhân tham gia bảo vệ an ninh quốc gia."
+                    },
+                    "2.": {
+                        "tên": "Cơ quan, tổ chức, cá nhân trong hoạt động bảo vệ an ninh quốc gia có thành tích thì được khen thưởng, bị tổn hại về danh dự thì được khôi phục, bị thiệt hại về tài sản thì được đền bù; người bị thương tích, tổn hại về sức khỏe, bị thiệt hại về tính mạng thì bản thân và gia đình được hưởng chế độ, chính sách theo quy định của pháp luật."
+                    }
+                }
+            },
+            "điều 10": {
+                "tên": "Tuyên truyền, giáo dục bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Chính phủ, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Uỷ ban nhân dân các cấp có trách nhiệm tổ chức, chỉ đạo công tác tuyên truyền, giáo dục bảo vệ an ninh quốc gia."
+                    },
+                    "2.": {
+                        "tên": "Cơ quan thông tin, tuyên truyền có trách nhiệm tổ chức tuyên truyền, phổ biến pháp luật và nâng cao ý thức bảo vệ an ninh quốc gia cho toàn dân."
+                    },
+                    "3.": {
+                        "tên": "Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, giáo dục, vận động công dân Việt Nam, người Việt Nam định cư ở nước ngoài bảo vệ an ninh quốc gia."
+                    },
+                    "4.": {
+                        "tên": "Giáo dục bảo vệ an ninh quốc gia là một nội dung giáo dục quốc dân. Cơ quan quản lý nhà nước về giáo dục và đào tạo có trách nhiệm đưa nội dung giáo dục bảo vệ an ninh quốc gia vào chương trình dạy học trong nhà trường và các cơ sở giáo dục khác phù hợp với ngành học, cấp học."
+                    }
+                }
+            },
+            "điều 11": {
+                "tên": "Hợp tác quốc tế trong lĩnh vực bảo vệ an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 12": {
+                "tên": "Chính sách xử lý các hành vi xâm phạm an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Mọi hành vi xâm phạm an ninh quốc gia đều phải bị xử lý nghiêm minh, kịp thời theo đúng quy định của pháp luật. Người chủ mưu, cầm đầu, chỉ huy, ngoan cố chống đối thì bị nghiêm trị."
+                    },
+                    "2.": {
+                        "tên": "Người bị ép buộc, lừa gạt, lôi kéo nhận làm việc cho tổ chức, cá nhân để hoạt động xâm phạm an ninh quốc gia mà tự thú, thành khẩn khai báo thì được khoan hồng; nếu lập công thì được khen thưởng."
+                    },
+                    "3.": {
+                        "tên": "Người nước ngoài có hành vi xâm phạm an ninh quốc gia của Việt Nam ở ngoài lãnh thổ Việt Nam có thể bị xử lý theo pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam trong trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập có quy định."
+                    }
+                }
+            },
+            "điều 13": {
+                "tên": "Các hành vi bị nghiêm cấm",
+                "điểm": {
+                    "1.": {
+                        "tên": "Chính phủ thống nhất quản lý nhà nước về bảo vệ an ninh quốc gia."
+                    },
+                    "2.": {
+                        "tên": "Bộ Công an chịu trách nhiệm trước Chính phủ chủ trì, phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, các bộ, cơ quan ngang bộ thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia."
+                    },
+                    "3.": {
+                        "tên": "Chỉ đạo, hướng dẫn thực hiện các biện pháp bảo vệ an ninh quốc gia."
+                    },
+                    "4.": {
+                        "tên": "Tổ chức bộ máy, trang bị phương tiện, đào tạo cán bộ làm công tác bảo vệ an ninh quốc gia; bồi dưỡng kiến thức bảo vệ an ninh quốc gia cho cán bộ chủ chốt của các cơ quan, tổ chức; xây dựng và tổ chức thực hiện chương trình giáo dục về bảo vệ an ninh quốc gia; xây dựng và thực hiện chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia bảo vệ an ninh quốc gia."
+                    },
+                    "5.": {
+                        "tên": "Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo trong hoạt động bảo vệ an ninh quốc gia."
+                    },
+                    "6.": {
+                        "tên": "Hợp tác quốc tế về bảo vệ an ninh quốc gia."
+                    },
+                    "7.": {
+                        "tên": "Hành vi khác xâm phạm an ninh quốc gia được quy định tại Bộ luật hình sự và các văn bản pháp luật có liên quan."
+                    }
+                }
+            }
+        }
+    },
+    "chương 2": {
+        "tên": "BẢO VỆ AN NINH QUỐC GIA",
+        "điều": {
+            "điều 14": {
+                "tên": "ủa Luật này và các quy định khác của pháp luật về bảo vệ an ninh quốc gia.",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức thực hiện các nhiệm vụ quy định tại Điều 14 của Luật này và các quy định khác của pháp luật về bảo vệ an ninh quốc gia."
+                    },
+                    "2.": {
+                        "tên": "Thực hiện các biện pháp bảo vệ an ninh chính trị nội bộ, huy động sức mạnh của cơ quan, tổ chức để thực hiện nhiệm vụ bảo vệ an ninh quốc gia; đưa nhiệm vụ bảo vệ an ninh quốc gia vào chương trình, kế hoạch và các hoạt động chuyên môn của cơ quan, tổ chức."
+                    },
+                    "3.": {
+                        "tên": "Giáo dục, động viên mọi thành viên của cơ quan, tổ chức mình và nhân dân tham gia bảo vệ an ninh quốc gia."
+                    },
+                    "4.": {
+                        "tên": "Phát hiện, cung cấp kịp thời thông tin, tài liệu liên quan đến hoạt động xâm phạm an ninh quốc gia cho cơ quan chuyên trách bảo vệ an ninh quốc gia hoặc chính quyền nơi gần nhất."
+                    },
+                    "5.": {
+                        "tên": "Thực hiện yêu cầu của cơ quan chuyên trách bảo vệ an ninh quốc gia theo quy định của pháp luật."
+                    }
+                }
+            },
+            "điều 15": {
+                "tên": "Các biện pháp cơ bản bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Các biện pháp cơ bản bảo vệ an ninh quốc gia bao gồm vận động quần chúng, pháp luật, ngoại giao, kinh tế, khoa học - kỹ thuật, nghiệp vụ, vũ trang."
+                    },
+                    "2.": {
+                        "tên": "Nội dung, điều kiện, thẩm quyền, trình tự, thủ tục và trách nhiệm áp dụng các biện pháp quy định tại khoản 1 Điều này do pháp luật quy định."
+                    }
+                }
+            },
+            "điều 16": {
+                "tên": "Xây dựng nền an ninh nhân dân và thế trận an ninh nhân dân",
+                "điểm": {
+                    "1.": {
+                        "tên": "Vận động toàn dân tham gia phong trào bảo vệ an ninh Tổ quốc; giáo dục, động viên cán bộ, công chức, người lao động và mọi công dân tham gia xây dựng địa phương, cơ quan, tổ chức vững mạnh; xây dựng khối đại đoàn kết toàn dân tộc; nâng cao đời sống vật chất và tinh thần của nhân dân."
+                    },
+                    "2.": {
+                        "tên": "Xây dựng và tổ chức thực hiện chiến lược, chính sách, kế hoạch bảo vệ an ninh quốc gia gắn với xây dựng, củng cố hệ thống chính trị, phát triển kinh tế, văn hoá, xã hội, đối ngoại và kết hợp chặt chẽ với xây dựng nền quốc phòng toàn dân."
+                    },
+                    "3.": {
+                        "tên": "Tăng cường pháp chế xã hội chủ nghĩa, xây dựng, hoàn thiện hệ thống pháp luật về bảo vệ an ninh quốc gia; xác định cụ thể nhiệm vụ, quyền hạn, trách nhiệm, nghĩa vụ của cơ quan, tổ chức, cá nhân trong bảo vệ an ninh quốc gia."
+                    },
+                    "4.": {
+                        "tên": "Xây dựng lực lượng bảo vệ an ninh quốc gia vững mạnh; xây dựng các phương án và tổ chức, bố trí lực lượng, phương tiện cần thiết để chủ động bảo vệ an ninh quốc gia trong mọi tình huống."
+                    }
+                }
+            },
+            "điều 17": {
+                "tên": "Quyền và nghĩa vụ của công dân trong bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Tham gia lực lượng bảo vệ an ninh quốc gia và thực hiện nhiệm vụ bảo vệ an ninh quốc gia theo quy định của pháp luật."
+                    },
+                    "2.": {
+                        "tên": "Tố cáo hành vi xâm phạm an ninh quốc gia, hành vi lợi dụng việc thực hiện nhiệm vụ bảo vệ an ninh quốc gia xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân."
+                    },
+                    "3.": {
+                        "tên": "Phát hiện, kiến nghị với chính quyền hoặc cơ quan chuyên trách bảo vệ an ninh quốc gia khắc phục sơ hở, thiếu sót trong việc thực hiện pháp luật về bảo vệ an ninh quốc gia."
+                    },
+                    "4.": {
+                        "tên": "Phát hiện, cung cấp kịp thời thông tin, tài liệu liên quan đến hoạt động xâm phạm an ninh quốc gia cho chính quyền hoặc cơ quan chuyên trách bảo vệ an ninh quốc gia nơi gần nhất."
+                    },
+                    "5.": {
+                        "tên": "Thực hiện yêu cầu của cơ quan chuyên trách bảo vệ an ninh quốc gia theo quy định của pháp luật."
+                    },
+                    "6.": {
+                        "tên": "Giúp đỡ, tạo điều kiện cho cơ quan và người có trách nhiệm tiến hành các biện pháp phòng ngừa, phát hiện, ngăn chặn, đấu tranh với hoạt động xâm phạm an ninh quốc gia."
+                    }
+                }
+            },
+            "điều 18": {
+                "tên": "Trách nhiệm của cơ quan, tổ chức trong bảo vệ an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 19": {
+                "tên": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong bảo vệ an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 20": {
+                "tên": "Bảo vệ an ninh quốc gia khi có tình trạng khẩn cấp, tình trạng chiến tranh",
+                "điểm": {}
+            },
+            "điều 21": {
+                "tên": "Áp dụng một số biện pháp cần thiết khi có nguy cơ đe doạ an ninh quốc gia nhưng chưa đến mức ban bố tình trạng khẩn cấp",
+                "điểm": {
+                    "1.": {
+                        "tên": "Chính phủ thống nhất quản lý nhà nước về bảo vệ an ninh quốc gia."
+                    },
+                    "2.": {
+                        "tên": "Bộ Công an chịu trách nhiệm trước Chính phủ chủ trì, phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, các bộ, cơ quan ngang bộ thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia."
+                    },
+                    "3.": {
+                        "tên": "Chỉ đạo, hướng dẫn thực hiện các biện pháp bảo vệ an ninh quốc gia."
+                    },
+                    "4.": {
+                        "tên": "Tổ chức bộ máy, trang bị phương tiện, đào tạo cán bộ làm công tác bảo vệ an ninh quốc gia; bồi dưỡng kiến thức bảo vệ an ninh quốc gia cho cán bộ chủ chốt của các cơ quan, tổ chức; xây dựng và tổ chức thực hiện chương trình giáo dục về bảo vệ an ninh quốc gia; xây dựng và thực hiện chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia bảo vệ an ninh quốc gia."
+                    },
+                    "5.": {
+                        "tên": "Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo trong hoạt động bảo vệ an ninh quốc gia."
+                    },
+                    "6.": {
+                        "tên": "Hợp tác quốc tế về bảo vệ an ninh quốc gia."
+                    }
+                }
+            }
+        }
+    },
+    "chương 3": {
+        "tên": "CƠ QUAN CHUYÊN TRÁCH BẢO VỆ AN NINH QUỐC GIA",
+        "điều": {
+            "điều 22": {
+                "tên": "Các cơ quan chuyên trách bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Các cơ quan chuyên trách bảo vệ an ninh quốc gia bao gồm:"
+                    },
+                    "2.": {
+                        "tên": "Tổ chức bộ máy, nhiệm vụ, quyền hạn cụ thể, phạm vi trách nhiệm hoạt động và quan hệ phối hợp của các cơ quan quy định tại khoản 1 Điều này do pháp luật quy định."
+                    }
+                }
+            },
+            "điều 23": {
+                "tên": "Nhiệm vụ của cơ quan chuyên trách bảo vệ an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 14": {
+                "tên": "ủa Luật này.",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cơ quan chuyên trách bảo vệ an ninh quốc gia thực hiện nhiệm vụ quy định tại Điều 14 của Luật này."
+                    },
+                    "2.": {
+                        "tên": "Các nhiệm vụ cụ thể của cơ quan chuyên trách bảo vệ an ninh quốc gia:"
+                    }
+                }
+            },
+            "điều 24": {
+                "tên": "ủa Luật này theo quyết định của người có thẩm quyền của cơ quan chuyên trách bảo vệ an ninh quốc gia;",
+                "điểm": {
+                    "2.": {
+                        "tên": "Chính phủ quy định cụ thể trình tự, thủ tục, thẩm quyền thực hiện các quy định tại khoản 1 Điều này."
+                    },
+                    "3.": {
+                        "tên": "Cán bộ chuyên trách bảo vệ an ninh quốc gia có trách nhiệm chấp hành nghiêm chỉnh pháp luật của Nhà nước, các quy tắc nghiệp vụ chuyên môn, kỷ luật của lực lượng vũ trang nhân dân và chịu trách nhiệm trước pháp luật về những việc làm của mình."
+                    }
+                }
+            },
+            "điều 25": {
+                "tên": "Quyền hạn, trách nhiệm của cán bộ chuyên trách bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Cán bộ chuyên trách bảo vệ an ninh quốc gia trong khi thực hiện nhiệm vụ được quyền:"
+                    }
+                }
+            },
+            "điều 26": {
+                "tên": "Trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ của cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 27": {
+                "tên": "Chế độ quản lý thông tin, tài liệu, đồ vật về bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Thông tin, tài liệu, đồ vật liên quan đến cơ quan chuyên trách bảo vệ an ninh quốc gia hoặc do cơ quan này thu thập được thuộc bí mật nhà nước và được quản lý theo quy định của pháp luật về bảo vệ bí mật nhà nước."
+                    },
+                    "2.": {
+                        "tên": "Thông tin, tài liệu, đồ vật quy định tại khoản 1 Điều này có giá trị lịch sử, khoa học và công nghệ đã được công bố theo quy định của pháp luật thì có thể được chuyển giao cho cơ quan lưu trữ nhà nước quản lý."
+                    }
+                }
+            },
+            "điều 28": {
+                "tên": "Chế độ, chính sách đối với cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Chính phủ thống nhất quản lý nhà nước về bảo vệ an ninh quốc gia."
+                    },
+                    "2.": {
+                        "tên": "Bộ Công an chịu trách nhiệm trước Chính phủ chủ trì, phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, các bộ, cơ quan ngang bộ thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia."
+                    },
+                    "3.": {
+                        "tên": "Chỉ đạo, hướng dẫn thực hiện các biện pháp bảo vệ an ninh quốc gia."
+                    },
+                    "4.": {
+                        "tên": "Tổ chức bộ máy, trang bị phương tiện, đào tạo cán bộ làm công tác bảo vệ an ninh quốc gia; bồi dưỡng kiến thức bảo vệ an ninh quốc gia cho cán bộ chủ chốt của các cơ quan, tổ chức; xây dựng và tổ chức thực hiện chương trình giáo dục về bảo vệ an ninh quốc gia; xây dựng và thực hiện chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia bảo vệ an ninh quốc gia."
+                    },
+                    "5.": {
+                        "tên": "Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo trong hoạt động bảo vệ an ninh quốc gia."
+                    },
+                    "6.": {
+                        "tên": "Hợp tác quốc tế về bảo vệ an ninh quốc gia."
+                    }
+                }
+            }
+        }
+    },
+    "chương 4": {
+        "tên": "QUẢN LÝ NHÀ NƯỚC VỀ AN NINH QUỐC GIA",
+        "điều": {
+            "điều 29": {
+                "tên": "Nội dung quản lý nhà nước về an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Xây dựng và tổ chức thực hiện chiến lược, chính sách, kế hoạch, phương án bảo vệ an ninh quốc gia và bảo đảm điều kiện cần thiết cho hoạt động bảo vệ an ninh quốc gia; ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về bảo vệ an ninh quốc gia."
+                    },
+                    "2.": {
+                        "tên": "Tổ chức, chỉ đạo, hướng dẫn hoạt động thu thập, phát hiện, điều tra, xử lý thông tin, tài liệu, hành vi liên quan đến hoạt động xâm phạm an ninh quốc gia."
+                    },
+                    "3.": {
+                        "tên": "Chỉ đạo, hướng dẫn thực hiện các biện pháp bảo vệ an ninh quốc gia."
+                    },
+                    "4.": {
+                        "tên": "Tổ chức bộ máy, trang bị phương tiện, đào tạo cán bộ làm công tác bảo vệ an ninh quốc gia; bồi dưỡng kiến thức bảo vệ an ninh quốc gia cho cán bộ chủ chốt của các cơ quan, tổ chức; xây dựng và tổ chức thực hiện chương trình giáo dục về bảo vệ an ninh quốc gia; xây dựng và thực hiện chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia bảo vệ an ninh quốc gia."
+                    },
+                    "5.": {
+                        "tên": "Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo trong hoạt động bảo vệ an ninh quốc gia."
+                    },
+                    "6.": {
+                        "tên": "Hợp tác quốc tế về bảo vệ an ninh quốc gia."
+                    }
+                }
+            },
+            "điều 30": {
+                "tên": "Thống nhất quản lý nhà nước về an ninh quốc gia",
+                "điểm": {
+                    "1.": {
+                        "tên": "Chính phủ thống nhất quản lý nhà nước về bảo vệ an ninh quốc gia."
+                    },
+                    "2.": {
+                        "tên": "Bộ Công an chịu trách nhiệm trước Chính phủ chủ trì, phối hợp với Bộ Quốc phòng, Bộ Ngoại giao, các bộ, cơ quan ngang bộ thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia."
+                    }
+                }
+            },
+            "điều 31": {
+                "tên": "Trách nhiệm của Bộ Quốc phòng trong quản lý nhà nước về an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 32": {
+                "tên": "Trách nhiệm của Bộ Ngoại giao trong quản lý nhà nước về an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 14": {
+                "tên": "ủa Luật này, các quy định khác của pháp luật có liên quan và phối hợp với các cơ quan hữu quan để bảo vệ an ninh quốc gia.",
+                "điểm": {}
+            },
+            "điều 33": {
+                "tên": "Trách nhiệm của các bộ, cơ quan ngang bộ trong quản lý nhà nước về an ninh quốc gia",
+                "điểm": {}
+            },
+            "điều 34": {
+                "tên": "Trách nhiệm của Uỷ ban nhân dân các cấp trong quản lý nhà nước về an ninh quốc gia",
+                "điểm": {}
+            }
+        }
+    },
+    "chương 5": {
+        "tên": "ĐIỀU KHOẢN THI HÀNH",
+        "điều": {
+            "điều 35": {
+                "tên": "Hiệu lực thi hành",
+                "điểm": {}
+            },
+            "điều 36": {
+                "tên": "Hướng dẫn thi hành",
+                "điểm": {}
+            }
+        }
+    }
+}

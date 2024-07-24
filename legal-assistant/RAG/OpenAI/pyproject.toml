@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "openai"
+version = "0.1.0"
+description = ""
+authors = ["henryhoangduong <henryhoangduong@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain = "^0.2.11"
+langchain-community = "^0.2.10"
+sentence-transformers = "^3.0.1"
+langchain-huggingface = "^0.0.3"
+jq = {path = "D:/DOWNLOAD/jq-1.6.0-cp312-cp312-win_amd64.whl"}
+setuptools = "^71.1.0"
+chromadb = "^0.5.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
