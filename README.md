@@ -174,4 +174,6 @@ Microsoft team produces other courses! Check out:
 - Bài giảng rất hay về Attention và Transformers (https://github.com/microsoft/AI-For-Beginners/blob/main/lessons/5-NLP/18-Transformers/READMEtransformers.md)
 - Bài viết hay làm rõ về Transformers kèm ví dụ trực quan trang 57 Kỷ yếu (https://www.dropbox.com/scl/fi/h77ynoxg37ygumczfw3lc/K-y-u-b-n-sau-ch-nh-s-a.pdf?rlkey=rht3r44hu7lfh7gxxq7aamm9g&e=2&dl=0)
 - Bài viết hay về BERT (https://phamdinhkhanh.github.io/2020/05/23/BERTModel.html)(https://mccormickml.com/2020/03/10/question-answering-with-a-fine-tuned-BERT/)
-  
+
+
+groq
