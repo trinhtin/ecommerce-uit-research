@@ -1,0 +1,2 @@
+some_vector_db_library==1.0.0
+some_llm_library==1.0.0
