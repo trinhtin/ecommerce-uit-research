@@ -2,12 +2,11 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_community.document_loaders import JSONLoader
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
-from langchain_openai import OpenAIEmbeddings,ChatOpenAI
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_core.runnables import RunnableLambda, RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
 from dotenv import load_dotenv
-import getpass
 import logging
 import os
 
