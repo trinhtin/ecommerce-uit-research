@@ -2,7 +2,7 @@
 ### Top Conferences
   -  [OSDI (Symposium on Operating Systems Design and Implementation)](https://dl.acm.org/conference/osdi): A premier forum for core system software design, implementation, and engineering.
   -  [SOSP (Symposium on Operating Systems Principles)](https://www.sosp.org/): A foundational and historic conference focusing on the design and principles of computer systems.
-  -  [ASPLOS (International Conference on Architectural Support for Programming Languages and Operating Systems)](https://www.asplos-conference.org/): Explores the intersection of hardware, software, and system design.
+  -  [ASPLOS (International Conference on Architectural Support for Programming Languages and Operating Systems)](https://dl.acm.org/conference/asplos): Explores the intersection of hardware, software, and system design.
 
 ### Top Journals
   -  [Journal of Systems and Software, Q1](https://www.sciencedirect.com/journal/journal-of-systems-and-software): Publishes research on the design, implementation, and evolution of software systems.
