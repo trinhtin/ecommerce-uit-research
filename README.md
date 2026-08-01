@@ -1,3 +1,17 @@
+Hướng nghiên cứu về System Desin
+Top Conferences
+OSDI (Symposium on Operating Systems Design and Implementation): A premier forum for core system software design, implementation, and engineering.
+SOSP (Symposium on Operating Systems Principles): A foundational and historic conference focusing on the design and principles of computer systems.
+ASPLOS (International Conference on Architectural Support for Programming Languages and Operating Systems): Explores the intersection of hardware, software, and system design.
+
+Top Journals
+Journal of Systems and Software: Publishes research on the design, implementation, and evolution of software systems.
+https://www.sciencedirect.com/journal/journal-of-systems-and-software
+IEEE Transactions on Software Engineering: A leading archival journal covering methods and design principles for large-scale systems.
+Formal Methods in System Design: Focuses on mathematical and rigorous techniques for designing and verifying hardware and software systems.
+
+
+
 Các kênh AI nên follow
 1. Andrew Ng (Nền tảng AI)
 2. Andrej Karpathy (Học trò của Fei-Fei Li) (Lý thuyết về AI chia sẻ theo ngôn ngữ đơn giản)
