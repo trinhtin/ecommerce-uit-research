@@ -1,14 +1,13 @@
-Hướng nghiên cứu về System Desin
-Top Conferences
-OSDI (Symposium on Operating Systems Design and Implementation): A premier forum for core system software design, implementation, and engineering.
-SOSP (Symposium on Operating Systems Principles): A foundational and historic conference focusing on the design and principles of computer systems.
-ASPLOS (International Conference on Architectural Support for Programming Languages and Operating Systems): Explores the intersection of hardware, software, and system design.
+## Hướng nghiên cứu về "System Design"
+### Top Conferences
+  -  OSDI (Symposium on Operating Systems Design and Implementation): A premier forum for core system software design, implementation, and engineering.
+  -  SOSP (Symposium on Operating Systems Principles): A foundational and historic conference focusing on the design and principles of computer systems.
+  -  ASPLOS (International Conference on Architectural Support for Programming Languages and Operating Systems): Explores the intersection of hardware, software, and system design.
 
-Top Journals
-Journal of Systems and Software: Publishes research on the design, implementation, and evolution of software systems.
-https://www.sciencedirect.com/journal/journal-of-systems-and-software
-IEEE Transactions on Software Engineering: A leading archival journal covering methods and design principles for large-scale systems.
-Formal Methods in System Design: Focuses on mathematical and rigorous techniques for designing and verifying hardware and software systems.
+### Top Journals
+  -  [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software): Publishes research on the design, implementation, and evolution of software systems.
+  -  IEEE Transactions on Software Engineering: A leading archival journal covering methods and design principles for large-scale systems.
+  -  Formal Methods in System Design: Focuses on mathematical and rigorous techniques for designing and verifying hardware and software systems.
 
 
 
