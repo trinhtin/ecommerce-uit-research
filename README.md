@@ -1,7 +1,7 @@
 ## Hướng nghiên cứu về "System Design"
 ### Top Conferences
   -  OSDI (Symposium on Operating Systems Design and Implementation): A premier forum for core system software design, implementation, and engineering.
-  -  SOSP (Symposium on Operating Systems Principles): A foundational and historic conference focusing on the design and principles of computer systems.
+  -  [SOSP (Symposium on Operating Systems Principles)](https://www.sosp.org/): A foundational and historic conference focusing on the design and principles of computer systems.
   -  ASPLOS (International Conference on Architectural Support for Programming Languages and Operating Systems): Explores the intersection of hardware, software, and system design.
 
 ### Top Journals
