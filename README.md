@@ -1,3 +1,16 @@
+## Các hội nghị và tạp chí hàng đầu về mô hình ngôn ngữ nhỏ (Small Language Models - SLM) chạy trên thiết bị biên, máy cá nhân và IoT bao gồm tinyML / Edge AI Foundation, IEEE Transactions on Computers, và ACM Computing Surveys.
+
+### Hội nghị khoa học tiêu biểu
+  -  Edge AI Research Symposium (tiền thân là tinyML Symposium): Diễn đàn lớn nhất tập trung vào việc thu nhỏ các mô hình học máy và mô hình ngôn ngữ xuống thiết bị nhúng, thiết bị biên tiêu thụ điện năng thấp.
+  -  ICML, NeurIPS, và ICLR: Các hội nghị AI tổng quan hàng đầu có tiểu ban và workshop thường niên về "Efficient Systems for Foundation Models" chuyên về tối ưu hóa SLM.
+  -  EMNLP và ACL: Nơi công bố các kiến trúc mô hình ngôn ngữ kích thước nhỏ, kỹ thuật chưng cất tri thức (knowledge distillation) và lượng tử hóa.
+
+### Tạp chí chuyên ngành uy tín
+  -  IEEE Embedded Systems Letters: Chuyên trang công bố các giải pháp triển khai phần mềm/phần cứng AI cho thiết bị IoT giới hạn tài nguyên.
+  -  ACM Computing Surveys: Thường xuyên đăng tải các bài khảo sát toàn diện về xu hướng phát triển mô hình ngôn ngữ trên thiết bị (on-device language models).
+  -  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems: Nơi trao đổi các nghiên cứu đồng thiết kế phần cứng và thuật toán cho vi điều khiển và phần cứng biên
+
+
 ## Hướng nghiên cứu về "System Design"
 ### Top Conferences
   -  [OSDI (Symposium on Operating Systems Design and Implementation)](https://dl.acm.org/conference/osdi): A premier forum for core system software design, implementation, and engineering.
